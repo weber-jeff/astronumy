@@ -1,0 +1,494 @@
+{
+  "1": {
+    "description": "Being born on the 1st of the month endows you with a powerful drive for individuality, leadership, and innovation. You are a natural pioneer, meant to carve your own path and initiate new beginnings. There's an inherent urge to be number one, to lead rather than follow, and to express your unique identity without compromise. This energy is direct, assertive, and forward-moving.",
+    "advice": "Embrace your natural leadership qualities and don't be afraid to take the initiative. Channel your strong willpower into constructive and innovative endeavors. While valuing your independence, make a conscious effort to collaborate and appreciate the contributions of others to avoid isolation. Learn to temper assertiveness with diplomacy.",
+    "master": false,
+    "element": "Fire",
+    "traits": ["Independent", "Ambitious", "Creative"],
+    "strengths": ["Innately confident, strong willpower, original thinker, courageous, determined, self-reliant, ambitious, excellent at starting new projects, pioneering spirit."],
+    "weaknesses": ["Can be perceived as bossy or arrogant, impatient with others, dislikes taking orders, may struggle with loneliness due to fierce independence, prone to self-centeredness if not mindful.l"],
+    "business": "Entrepreneurship, leadership roles, creative industries.",
+    "relationships": "Seek partners who appreciate your independence and drive.",
+    "purpose": "Your purpose is to develop and express your unique individuality, to lead with courage and originality, and to inspire others through your pioneering actions. You are here to learn self-reliance, to trust your innovative instincts, and to make your mark by initiating change and demonstrating the power of a singular, focused vision",
+    "vibration": "Strong, initiating, leadership",
+    "color": "Red"
+  },
+  "2": {
+    "description": "Descriptions: Born on the 2nd, you possess an innate gift for diplomacy, cooperation, and creating harmony. You are naturally sensitive to the needs and feelings of others, making you an excellent partner, mediator, and friend. Your energy is gentle, supportive, and seeks balance and union. You thrive in environments where you can collaborate and foster understanding.",
+    "advice": " Utilize your exceptional diplomatic skills to foster positive relationships and resolve conflicts peacefully. Trust your powerful intuition—it's one of your greatest assets. Work on building self-confidence and learn to assert your needs kindly but firmly. Seek partnerships where your cooperative and supportive nature is valued.",
+    "master": false,
+    "element": "Water",
+    "traits": ["Cooperative", "Patient", "Understanding"],
+    "strengths": ["Diplomatic, tactful, cooperative, highly intuitive, empathetic, patient, detail-oriented, considerate, loving, excellent team player, supportive."],
+    "weaknesses": ["Can be indecisive (fearing conflict), overly sensitive to criticism, prone to shyness or lack of confidence, may lean towards codependency if boundaries aren't strong, can harbor resentment if feeling unappreciated."],
+    "business": "Counseling, mediation, partnerships, support roles.",
+    "relationships": "Value harmony and seek partners who are understanding and supportive.",
+    "purpose": "Your purpose is to develop your capacity for harmonious relationships, to use your intuitive and diplomatic gifts to bring people together, and to teach the power of cooperation and sensitivity. You are here to learn the strength in gentleness, the importance of emotional intelligence, and to create beauty and balance in your interactions and environment.",
+    "vibration": "Sensitive, cooperative, balance",
+    "color": "Orange"
+  },
+  "3": {
+    "description": "Being born on the 3rd infuses you with a natural talent for creativity, communication, and self-expression. You have an optimistic and joyful disposition that can uplift and inspire others. Your energy is vibrant, sociable, and artistic, compelling you to share your unique voice and vision with the world.",
+    "advice": "Find joyful and consistent outlets for your abundant creativity and self-expression. Practice discipline and focus to bring your many brilliant ideas to fruition. Communicate authentically and from the heart. Embrace your optimistic nature but also learn to navigate life's challenges with realism.",
+    "master": false,
+    "element": "Air",
+    "traits": ["Social", "Witty", "Artistic"],
+    "strengths": ["Highly creative, excellent communicator (written and verbal), artistic, optimistic, enthusiastic, witty, sociable, friendly, inspirational, youthful energy."],
+    "weaknesses": ["Can be scattered with many interests but difficulty focusing, may avoid deep emotional commitment, prone to superficiality if not grounded, can be moody if feeling uninspired or criticized, may exaggerate or gossip."],
+    "business": "Arts, media, entertainment, public speaking.",
+    "relationships": "Seek partners who appreciate your creativity and bring joy to your life.",
+    "purpose": "Your purpose is to express your unique creative talents, to communicate joy and inspiration, and to uplift others through your artistic and social gifts. You are here to learn the power of words and images, to cultivate joy and optimism, and to share your unique spark of light with the world, encouraging others to express themselves too.",
+    "vibration": "Expressive, joyful, creative",
+    "color": "Yellow"
+  },
+ 
+  "4": {
+    "description": "Born on the 4th, you are endowed with an innate ability for hard work, discipline, organization, and creating tangible results. You are practical, grounded, and dependable, with a natural inclination to build secure foundations in all areas of your life.",
+    "advice": "Utilize your exceptional organizational and building skills to create a secure and stable life for yourself and others. While embracing discipline and order, consciously cultivate flexibility and openness to new ideas. Learn to balance your dedication to work with rest, enjoyment, and personal relationships.",
+    "master": false,
+    "element": "Earth",
+    "traits": ["Hard-working", "Disciplined", "Organized", "Practical", "Loyal"],
+    "strengths": ["Methodical", "Determined", "Resilient"],
+    "weaknesses": ["Rigid", "Overly cautious", "Workaholic tendencies"],
+    "business": "Engineering, construction, accounting, project management.",
+    "relationships": "Seek loyalty and stability; committed and dependable in partnerships.",
+    "purpose": "To build lasting structures, create order, and demonstrate the value of discipline and perseverance.",
+    "vibration": "Stable, grounded, disciplined",
+    "color": "Green"
+  },
+  "5": {
+    "description": "Being born on the 5th gives you an innate love of freedom, adventure, change, and experiencing life through all your senses. You are versatile, adaptable, and curious, with a restless energy that thrives on variety and new horizons.",
+    "advice": "Embrace your adventurous spirit and seek out diverse experiences that expand your understanding of the world. Learn to channel your dynamic energy with a degree of self-discipline and focus.",
+    "master": false,
+    "element": "Air",
+    "traits": ["Adaptable", "Charismatic", "Adventurous", "Clever", "Quick-witted"],
+    "strengths": ["Resourceful", "Energetic", "Communicative"],
+    "weaknesses": ["Restless", "Impulsive", "Scattered focus"],
+    "business": "Marketing, travel, media, sales, performing arts.",
+    "relationships": "Crave excitement and freedom; need mentally stimulating and non-restrictive partners.",
+    "purpose": "To explore life's diversity, communicate freely, and inspire others through fearless living.",
+    "vibration": "Dynamic, curious, expressive",
+    "color": "Turquoise"
+  },
+  "6": {
+    "description": "Born on the 6th, you possess an innate sense of responsibility, compassion, and a profound desire to nurture and care for others. You value harmony, beauty, and justice, with a strong connection to home, family, and community.",
+    "advice": "Channel your nurturing instincts in healthy ways. Set clear boundaries to avoid taking on too much. Balance care for others with self-care.",
+    "master": false,
+    "element": "Water",
+    "traits": ["Nurturing", "Responsible", "Loving", "Service-oriented", "Justice-seeking"],
+    "strengths": ["Reliable", "Compassionate", "Aesthetic"],
+    "weaknesses": ["Over-giving", "Perfectionist", "Self-righteous"],
+    "business": "Healthcare, teaching, design, social services, family counseling.",
+    "relationships": "Loyal, supportive, and loving partner; values long-term commitment.",
+    "purpose": "To nurture, create beauty, and serve with love and responsibility.",
+    "vibration": "Harmonious, caring, healing",
+    "color": "Blue"
+  },
+  "7": {
+    "description": "Being born on the 7th endows you with an innate need for understanding, knowledge, introspection, and solitude. You are a natural seeker, analyst, and often a mystic, drawn to unraveling life's deeper mysteries.",
+    "advice": "Trust your intuition. Balance solitude with meaningful relationships. Ground yourself through nature and personal rituals.",
+    "master": false,
+    "element": "Ether",
+    "traits": ["Intuitive", "Analytical", "Philosophical", "Reserved", "Truth-seeking"],
+    "strengths": ["Wise", "Focused", "Spiritual"],
+    "weaknesses": ["Withdrawn", "Overthinking", "Emotionally distant"],
+    "business": "Research, academia, psychology, technology, spiritual teaching.",
+    "relationships": "Values deep intellectual and spiritual connections; private in love.",
+    "purpose": "To seek knowledge, trust intuition, and share profound truths.",
+    "vibration": "Mystical, thoughtful, insightful",
+    "color": "Indigo"
+  },
+  "8": {
+    "description": "Born on the 8th, you have an innate capacity for leadership, authority, financial understanding, and manifesting material success. You are ambitious, resilient, and efficient.",
+    "advice": "Use your leadership and drive to empower others. Stay ethical and balanced between material and spiritual life.",
+    "master": false,
+    "element": "Earth",
+    "traits": ["Authoritative", "Ambitious", "Strategic", "Resilient", "Organized"],
+    "strengths": ["Financially savvy", "Efficient", "Goal-driven"],
+    "weaknesses": ["Materialistic", "Domineering", "Fear of vulnerability"],
+    "business": "Finance, executive leadership, law, real estate, entrepreneurship.",
+    "relationships": "Attracts strong partners; values loyalty and shared ambition.",
+    "purpose": "To master the material world, lead with integrity, and achieve meaningful success.",
+    "vibration": "Powerful, structured, determined",
+    "color": "Dark Gray or Black"
+  },
+  "9": {
+    "description": "Being born on the 9th infuses you with an innate sense of compassion, idealism, and a broad understanding of humanity. You are a natural humanitarian, artistic, and emotionally deep.",
+    "advice": "Focus on meaningful causes and creative expression. Let go of the past and maintain healthy boundaries.",
+    "master": false,
+    "element": "Water",
+    "traits": ["Compassionate", "Idealistic", "Artistic", "Tolerant", "Humanitarian"],
+    "strengths": ["Empathetic", "Wise", "Inspirational"],
+    "weaknesses": ["Over-sensitive", "Impractical", "Emotionally burdened"],
+    "business": "Art, healing, charitable organizations, social work, diplomacy.",
+    "relationships": "Loving and giving, needs depth and shared values.",
+    "purpose": "To serve humanity, inspire others, and embody universal compassion.",
+    "vibration": "Empathetic, visionary, expansive",
+    "color": "Rose or Violet"
+  },
+  "10": {
+    "description": "Born on the 10th, you carry the pioneering spirit of the 1, amplified by the limitless potential of the 0. This makes you an independent, confident leader and innovator.",
+    "advice": "Trust your inner vision and lead with originality. Use your spiritual awareness to guide your ambitions.",
+    "master": false,
+    "element": "Fire",
+    "traits": ["Pioneering", "Visionary", "Confident", "Independent", "Original"],
+    "strengths": ["Innovative", "Ambitious", "Big-picture thinker"],
+    "weaknesses": ["Impatient", "Egotistical", "Unfulfilled potential if spiritually disconnected"],
+    "business": "Entrepreneurship, tech, innovation, leadership, public speaking.",
+    "relationships": "Needs freedom and respect; best with supportive, independent partners.",
+    "purpose": "To lead boldly, manifest original visions, and inspire with higher awareness.",
+    "vibration": "Creative, forceful, infinite potential",
+    "color": "Gold"
+  },
+    "11": {
+        "description": "Born on the 11th, you are endowed with the Master Number of spiritual illumination and intuition. You possess a heightened sensitivity, visionary insights, and a direct connection to higher awareness. You are here to inspire, uplift, and bring new perspectives to the world, while also learning to navigate the intensity of your gifts. This day also carries the foundational cooperative energy of the number 2.",
+        "advice": "Profoundly trust and develop your extraordinary intuition; it is your most reliable guide. Find practical and creative ways to share your visions and inspire others. Practice grounding techniques regularly (meditation, nature, physical activity). Seek supportive partnerships (drawing on the 2 energy) to help manifest your goals. Learn to protect your energy field.",
+        "master": true,
+        "element": "Spirit",
+        "traits": [
+            "Visionary",
+            "Inspirational",
+            "Empathic"
+        ],
+        "strengths": [
+            "Highly intuitive",
+            "Idealistic",
+            "Charismatic"
+        ],
+        "weaknesses": [
+            "Anxious",
+            "Unrealistic",
+            "Self-doubting"
+        ],
+        "business": "Spiritual work, counseling, creative arts, teaching.",
+        "relationships": "Seek partners who support your emotional depth and spiritual journey.",
+        "purpose": "To channel higher wisdom, uplift others, and serve as a visionary bridge between spiritual and material worlds.",
+        "vibration": "Spiritual, illuminating, idealistic",
+        "color": "Indigo"
+    },
+    "12": {
+        "description": "Born on the 12th, your innate creativity and expressiveness (3) are enhanced by a blend of individuality (1) and cooperation (2). This makes you a socially adept and imaginative individual who can articulate ideas charmingly and work well with others to bring creative projects to life. You have a natural flair for communication and artistic endeavors.",
+        "advice": "Embrace your creative talents and find outlets for your self-expression, particularly in social or collaborative settings. Use your natural charm and communication skills to connect with others. Learn to balance your individual needs with the dynamics of teamwork to achieve your goals.",
+        "master": false,
+        "element": "Air",
+        "traits": [
+            "Creative",
+            "Expressive",
+            "Sociable"
+        ],
+        "strengths": [
+             "Highly intuitive and psychic",
+        "Visionary",
+        "Inspirational",
+        "Idealistic",
+        "Charismatic",
+        "Deeply empathetic",
+        "Creative",
+        "Inventive",
+        "A channel for higher wisdom"
+        ],
+        "weaknesses": [
+            "Prone to nervous tension and anxiety",
+        "Can be impractical or live in dreams if not grounded",
+        "May suffer from self-doubt or feel overwhelmed by their own sensitivity and potential",
+        "Can easily absorb others' energies"
+        ],
+        "business": "Communication, arts, media, public relations.",
+        "relationships": "Look for partners who appreciate both your charm and your need for creative expression.",
+        "purpose": "Your purpose is to express your unique creative voice, to communicate joy and inspiration, and to foster positive social connections. You are here to learn how to blend individuality with cooperation, using your artistic and communicative talents to bring people together and add beauty and optimism to the world.",
+        "vibration": "Joyful, expressive, social",
+        "color": "Turquoise"
+    },
+    "13": {
+        "description": "Born on the 13th, you are here to learn the value of hard work, discipline, and perseverance in building a solid foundation (4). The combination of 1 (drive) and 3 (creativity) needs the structure of the 4 to be truly effective. This birthday suggests that achieving your goals will require focused effort and overcoming obstacles, teaching valuable lessons about responsibility and application.",
+        "advice": "Embrace discipline and hard work as your allies. Focus on completing tasks thoroughly and methodically. Be patient with yourself and the process; perseverance is key. Avoid blaming others or circumstances for difficulties and instead, see challenges as opportunities for growth and strengthening your resolve.",
+        "master": false,
+        "element": "Earth",
+        "traits": [
+            "Determined",
+            "Practical",
+            "Structured"
+        ],
+        "strengths": [
+            "Disciplined",
+            "Responsible",
+            "Grounded"
+        ],
+        "weaknesses": [
+            "Stubborn",
+            "Rigid",
+            "Overworked"
+        ],
+        "business": "Engineering, project management, craftsmanship.",
+        "relationships": "Seek a partner who values responsibility and shares your practical approach.",
+        "purpose": "To build lasting structures through perseverance, responsibility, and disciplined effort.",
+        "vibration": "Structured, grounded, enduring",
+        "color": "Brown"
+    },
+    "14": {
+        "description": "Born on the 14th, you are driven by a deep need for freedom, change, and diverse experiences (5), influenced by the interplay of individuality (1) and the limitations/structure (4) you might be breaking free from. This day signifies a life path filled with learning through a variety of encounters, and it brings lessons about the constructive use of freedom.",
+        "advice": "Embrace change and seek out diverse experiences, but do so with moderation and self-discipline. Learn to focus your dynamic energy and honor your commitments. Find healthy ways to satisfy your adventurous spirit. Understand that true freedom comes with responsibility.",
+        "master": false,
+        "element": "Fire",
+        "traits": [
+            "Adventurous",
+            "Curious",
+            "Dynamic"
+        ],
+        "strengths": [
+            "Versatile",
+            "Charismatic",
+            "Quick learner"
+        ],
+        "weaknesses": [
+            "Reckless",
+            "Overindulgent",
+            "Non-committal"
+        ],
+        "business": "Travel, sales, marketing, entrepreneurship.",
+        "relationships": "Need a partner who respects your independence and shares your zest for life.",
+        "purpose": "To explore the world freely, gain wisdom through experience, and teach the value of responsible freedom.",
+        "vibration": "Energetic, transformative, bold",
+        "color": "Red"
+    },
+    "15": {
+        "description": "Born on the 15th, you possess a magnetic charm and a loving, nurturing nature (6), created from the dynamic interplay of individuality and initiative (1) with freedom and variety (5). This combination makes you responsible and caring, yet also someone who appreciates beauty, excitement, and personal expression within your relationships and domestic life.",
+        "advice": "Balance your desire for personal freedom and excitement (5) with your inherent sense of responsibility and care for others (6). Use your natural charm and magnetism to create positive, harmonious relationships and a beautiful home environment. Ensure you are nurturing yourself as well as others.",
+        "master": false,
+        "element": "Water",
+        "traits": [
+            "Loving",
+            "Responsible",
+            "Charming"
+        ],
+        "strengths": [
+            "Compassionate",
+            "Creative",
+            "Magnetic"
+        ],
+        "weaknesses": [
+            "Self-indulgent",
+            "Overly giving",
+            "Dependent"
+        ],
+        "business": "Beauty, wellness, hospitality, home design.",
+        "relationships": "Thrive with loving, emotionally connected partners who value home and harmony.",
+        "purpose": "To create harmony and beauty in your relationships and home, while balancing responsibility with personal joy.",
+        "vibration": "Harmonious, nurturing, expressive",
+        "color": "Pink"
+    },
+    "16": {
+        "description": "Born on the 16th, you are on a path of profound spiritual growth and introspection (7), often catalyzed by experiences that challenge the ego and superficial attachments. The combination of the self (1) and love/responsibility (6) leads to a journey of seeking deeper truths, often through unexpected life events that encourage looking inward.",
+        "advice": "Focus on genuine spiritual growth, introspection, and authentic connections rather than outward appearances or ego-driven pursuits. Trust your intuition. Learn from life's unexpected turns and see them as catalysts for deeper understanding. Embrace humility and seek truth.",
+        "master": false,
+        "element": "Spirit",
+        "traits": [
+            "Spiritual",
+            "Analytical",
+            "Introspective"
+        ],
+        "strengths": [
+            "Wise",
+            "Insightful",
+            "Humble"
+        ],
+        "weaknesses": [
+            "Aloof",
+            "Secretive",
+            "Overly self-critical"
+        ],
+        "business": "Psychology, research, spiritual guidance, philosophy.",
+        "relationships": "Seek partners who value depth and introspective connection.",
+        "purpose": "To evolve spiritually, gain wisdom through introspection, and inspire others with your insight.",
+        "vibration": "Spiritual, introspective, wise",
+        "color": "Violet"
+    },
+    "17": {
+        "description": "Born on the 17th, you are endowed with strong leadership potential and a keen business sense (8), which is often developed through combining your independent drive (1) with deep analysis and wisdom (7). This combination allows you to achieve significant material success and authority, often through specialized knowledge or insightful strategies.",
+        "advice": "Combine your ambition with deep thinking, wisdom, and sound judgment. Strive for success in a way that is both ethical and meaningful, utilizing your unique insights. Ensure you balance your drive for achievement with personal well-being and relationships.",
+        "master": false,
+        "element": "Earth",
+        "traits": [
+            "Ambitious",
+            "Strategic",
+            "Authoritative"
+        ],
+        "strengths": [
+            "Leader",
+            "Business-savvy",
+            "Resilient"
+        ],
+        "weaknesses": [
+            "Overly materialistic",
+            "Controlling",
+            "Detached"
+        ],
+        "business": "Business, finance, law, executive roles.",
+        "relationships": "Seek supportive partners who respect your ambitions and values.",
+        "purpose": "To achieve success through insight, leadership, and strategy, and to use your accomplishments to make a meaningful impact.",
+        "vibration": "Powerful, focused, wise",
+        "color": "Dark Green"
+    },
+  "18": {
+    "description": "Born on the 18th, you possess a powerful blend of individuality and leadership (1) combined with executive ability and material understanding (8), all channeling into a compassionate and humanitarian outlook (9). This makes you a capable leader who can manage resources effectively, often driven by a desire to serve a greater good or fight for justice.",
+   
+    "advice":"Use your leadership skills and your understanding of the material world to serve a cause larger than yourself. Strive to empower others and advocate for fairness. Learn to balance your personal drive with your compassionate ideals.",
+    
+    "master": false,
+    "element": "Fire",
+    "traits": ["Compassionate", "Idealistic", "Charitable"],
+    "strengths": ["Born on the 18th, you possess a powerful blend of individuality and leadership (1) combined with executive ability and material understanding (8), all channeling into a compassionate and humanitarian outlook (9). This makes you a capable leader who can manage resources effectively, often driven by a desire to serve a greater good or fight for justice."],
+    "weaknesses": ["May experience an inner conflict between personal ambition/material desires (8) and selfless service/idealism (9).",
+        "Can be quite intense or driven.",
+        "Needs to ensure power is used wisely and for the benefit of others."
+      ],
+    "business": "Charity, social work, activism.",
+    "relationships": "Seek partners who share your humanitarian values.",
+    "purpose": "Your purpose is to use your innate strength, leadership, and material understanding to serve humanitarian ends. You are here to learn how to balance personal power with selfless giving, to fight for justice, and to make a tangible difference in the lives of others through your capable and compassionate actions."
+ ,
+    "vibration": "Compassionate, idealistic, humanitarian",
+    "color": "Gold"
+  },
+  "19": {
+    "description": "Independent and self-reliant with leadership abilities.",
+    "advice": "Be mindful of others’ feelings and collaborate.",
+    "master": false,
+    "element": "Fire",
+    "traits": ["Confident", "Ambitious", "Creative"],
+    "strengths": ["Self-motivated", "Determined", "Innovative"],
+    "weaknesses": ["Impatient", "Dominant", "Egotistical"],
+    "business": "Entrepreneurship, leadership.",
+    "relationships": "Seek partners who respect your independence.",
+    "purpose": "To lead and innovate.",
+    "vibration": "Strong, pioneering, confident",
+    "color": "Red"
+  },
+  "20": {
+    "description": "Master number with strong intuition and spiritual insight.",
+    "advice": "Stay grounded and avoid overthinking.",
+    "master": true,
+    "element": "Earth",
+    "traits": ["Visionary", "Intuitive", "Sensitive"],
+    "strengths": ["Insightful", "Creative", "Empathetic"],
+    "weaknesses": ["Anxious", "Overwhelmed", "Nervous"],
+    "business": "Spiritual guidance, teaching, arts.",
+    "relationships": "Seek partners who appreciate your sensitivity and vision.",
+    "purpose": "To enlighten and inspire others with your insights.",
+    "vibration": "Spiritual, intuitive, visionary",
+    "color": "Silver"
+  },
+  "25": {
+  "description": "Analytical and introspective with a strong intuitive sense.",
+  "advice": "Trust your intuition but stay grounded in facts.",
+  "master": false,
+  "element": "Water",
+  "traits": ["Thoughtful", "Inquisitive", "Sensitive"],
+  "strengths": ["Analytical", "Intuitive", "Wise"],
+  "weaknesses": ["Reserved", "Overly cautious", "Isolated"],
+  "business": "Science, research, spirituality, and technology.",
+  "relationships": "Seek deep, meaningful relationships built on trust and understanding.",
+  "purpose": "To discover hidden truths and share insights for the greater good.",
+  "color": "Deep Blue",
+  "vibration": "Calm, insightful energy encouraging deep understanding and wisdom.",
+  "insight": "Your combination of analytical thinking and intuition allows you to solve complex problems others cannot.",
+  "summary": "Balance 25 is a wise seeker of truth who blends intellect with intuition to benefit others."
+},
+  "26": {
+  "description": "Ambitious and practical, skilled at managing resources.",
+  "advice": "Avoid materialism and develop generosity.",
+  "master": false,
+  "element": "Earth",
+  "traits": ["Disciplined", "Organized", "Goal-oriented"],
+  "strengths": ["Efficient", "Powerful", "Reliable"],
+  "weaknesses": ["Domineering", "Workaholic", "Stubborn"],
+  "business": "Business management, finance, law, real estate.",
+  "relationships": "Seek partners who are strong, supportive, and share your ambition.",
+  "purpose": "To achieve material success and use your power for good.",
+  "color": "Forest Green",
+  "vibration": "Grounded, steady energy that nurtures growth and responsible power.",
+  "insight": "Your ability to organize and lead resources makes you a natural builder of lasting success.",
+  "summary": "Balance 26 is a grounded achiever, focused on practical success and wise stewardship."
+},
+  "27": {
+  "description": "Compassionate and humanitarian, driven by ideals.",
+  "advice": "Set boundaries to protect your emotional well-being.",
+  "master": false,
+  "element": "Fire",
+  "traits": ["Altruistic", "Creative", "Inspirational"],
+  "strengths": ["Empathetic", "Charitable", "Generous"],
+  "weaknesses": ["Overly emotional", "Impatient", "Escapist"],
+  "business": "Charity work, social activism, arts, healing.",
+  "relationships": "Seek partners who share your compassion and commitment to helping others.",
+  "purpose": "To uplift humanity and contribute to a better world.",
+  "color": "Gold",
+  "vibration": "Compassionate, idealistic energy that inspires altruism and creativity.",
+  "insight": "Your deep empathy allows you to connect with others on a profound level, making you a natural healer.",
+  "summary": "Balance 27 is a compassionate visionary, dedicated to uplifting humanity through creativity."
+},
+
+
+"28": { 
+  "description": "Independent and ambitious, with strong leadership skills.",
+  "advice": "Practice patience and empathy.",
+  "master": false,
+  "element": "Earth",
+  "traits": ["Confident", "Driven", "Innovative"],
+  "strengths": ["Focused", "Strong-willed", "Resourceful"],
+  "weaknesses": ["Impatient", "Dominant", "Stubborn"],
+  "business": "Entrepreneurship, leadership, management, real estate.",
+  "relationships": "Seek partners who are strong, supportive, and share your ambition.",
+  "purpose": "To lead with vision and achieve significant success.",
+  "color": "Copper",
+  "vibration": "Bold and energetic energy that sparks determination and resilience.",
+  "insight": "Your combination of vision and drive empowers you to overcome obstacles and lead effectively.",
+  "summary": "Balance 28 is a determined leader who channels ambition into lasting success."
+},
+  "29": {
+  "description": "Intuitive and sensitive, with a strong spiritual connection.",
+  "advice": "Stay grounded and avoid overthinking.",
+  "master": false,
+  "element": "Water",
+  "traits": ["Intuitive", "Empathetic", "Creative"],
+  "strengths": ["Insightful", "Compassionate", "Artistic"],
+  "weaknesses": ["Overly emotional", "Anxious", "Escapist"],
+  "business": "Spiritual guidance, arts, counseling.",
+  "relationships": "Seek partners who appreciate your sensitivity and creativity.",
+  "purpose": "To inspire and uplift others through your insights and creativity.",
+  "color": "Lavender",
+  "vibration": "Sensitive, intuitive energy that fosters creativity and compassion.",
+  "insight": "Your deep emotional understanding allows you to connect with others on a profound level.",
+  "summary": "Balance 29 is a compassionate visionary, dedicated to inspiring others through creativity."
+},
+  "30": {
+  "description": "Expressive and optimistic, with strong communication skills.",
+  "advice": "Focus your energy and avoid distractions.",
+  "master": false,
+  "element": "Air",
+  "traits": ["Creative", "Social", "Joyful"],
+  "strengths": ["Communicative", "Charismatic", "Energetic"],
+  "weaknesses": ["Restless", "Scattered", "Impulsive"],
+  "business": "Communication, arts, entertainment, event planning.",
+  "relationships": "Seek partners who are fun-loving and appreciate your joyful nature.",
+  "purpose": "To spread joy and optimism through your creative expression.",
+  "color": "Sunny Yellow",
+  "vibration": "Bright, uplifting energy that inspires joy and vibrant communication.",
+  "insight": "Your enthusiasm and charisma inspire and energize those around you.",
+  "summary": "Balance 30 is a joyful communicator who lights up the room with creative energy."
+},
+  "31": {
+  "description": "Practical and ambitious, with strong organizational skills.",
+  "advice": "Be flexible and open to new ideas.",
+  "master": false,
+  "element": "Earth",
+  "traits": ["Hardworking", "Responsible", "Loyal"],
+  "strengths": ["Determined", "Reliable", "Organized"],
+  "weaknesses": ["Stubborn", "Overcautious", "Rigid"],
+  "business": "Management, administration, finance, skilled trades.",
+  "relationships": "Value loyalty and seek partners who are reliable and supportive.",
+  "purpose": "To build strong foundations and create a stable, secure environment.",
+  "color": "Deep Brown",
+  "vibration": "Strong, stable energy focused on perseverance and grounded success.",
+  "insight": "Your determination and reliability create lasting stability and trust.",
+  "summary": "Balance 31 is a steadfast organizer, dedicated to building solid foundations."
+}
+}

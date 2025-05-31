@@ -1,0 +1,330 @@
+{
+  
+  "1": {
+    "description": "The Leader. Ones are inherently ambitious, fiercely self-motivated individuals with an exceptionally strong and innate drive to achieve personal success, innovate, and pioneer new ventures. They are the trailblazers, often venturing where others hesitate, fueled by a desire to make their mark.",
+    "advice": "Harness your potent leadership abilities wisely and with humility; be mindful to avoid arrogance or appearing dismissive of others' contributions. Actively stay open to collaborative teamwork, value diverse input from your peers and team members, and understand that true strength in leadership often involves empowering those around you.",
+    "master": false,
+    "traits": [
+      "Dynamic Leadership – Possessing a natural ability to inspire, direct, and motivate others towards a common goal, often taking charge instinctively.",
+      "Proactive Initiative – Consistently demonstrating the drive to start projects, seize opportunities, and take action without needing external prompting.",
+      "Unwavering Courage – Showing bravery in the face of adversity, willingness to take calculated risks, and the fortitude to stand by convictions."
+    ],
+    "strengths": [
+      "Highly Determined – Pursuing objectives with relentless focus, resilience, and an unwillingness to be easily swayed or defeated by obstacles.",
+      "Deeply Confident – Exhibiting strong self-belief and assurance in one's own capabilities, which enables decisive action and risk-taking.",
+      "Naturally Innovative – Possessing a mind keen on originality, constantly seeking novel solutions, fresh perspectives, and ways to improve or create anew."
+    ],
+    "weaknesses": [
+      "Potentially Stubborn – Can be resistant to changing one's mind or methods once a decision is made, sometimes to a fault, hindering adaptability.",
+      "Easily Impatient – May become quickly frustrated by delays, slower paces, or perceived inefficiencies in others, desiring immediate results.",
+      "Risk of Dominating – In their enthusiasm to lead, may unintentionally overpower others, dismiss their input, or appear overly assertive or controlling."
+    ],
+    "business": "Your innate pioneering spirit and decisive leadership make you a natural entrepreneur, founder, or executive. Focus on innovation, spearheading new projects, and building your own path or significantly shaping the direction of any venture you undertake. Roles where autonomy and vision are key are ideal.",
+    "purpose": "To serve as a pioneering force and quintessential leader, embodying profound courage, unwavering self-reliance, and an innovative spirit. The core mission is to lead by direct, powerful example, forging new paths and initiating action, thereby inspiring and motivating others to confidently pursue their own ambitious goals and visions with boldness and unwavering self-belief, ultimately driving progress and innovation in the world.",
+    "relationships": "You highly value your independence and autonomy; therefore, you seek partners who deeply respect your need for personal freedom, are self-assured themselves, and actively support your ambitions without feeling overshadowed. A partnership of equals who champion each other's individual pursuits is ideal.",
+    "vibration": "Bold, pioneering, self-starting, and intensely energetic – Your presence often carries a palpable charge that can ignite action, command attention, and set a dynamic pace.",
+    "color": "Red – Symbolizing raw energy, passion, action, ambition, leadership, and the courage to forge ahead. It mirrors your driving force and assertive nature.",
+    "element": "Fire – Reflecting your inherent passion, dynamism, transformative energy, and intense drive. Like fire, you can illuminate, energize, and initiate, but must also manage your intensity.",
+    "insight": "Your vibrant and assertive energy is a powerful catalyst that drives significant progress, breaks inertia, and profoundly motivates those around you to take decisive action towards their own aspirations and collective goals."
+  },
+  "2": {
+    "description": "The Diplomat. Twos are inherently gentle, remarkably intuitive, and exceptionally cooperative individuals, often excelling in roles that require profound empathy, keen emotional intelligence, and the ability to foster harmony and understanding amongst diverse groups.",
+    "advice": "Consciously avoid sidestepping necessary conflict solely to maintain peace, especially at the cost of your own needs or truth. Learn to articulate your perspectives and requirements calmly and assertively when situations demand it, understanding that healthy relationships require mutual respect for individual needs.",
+    "master": false,
+    "traits": [
+      "Harmony-Seeking – Naturally inclined to create peaceful environments, mediate disputes, and foster agreement and understanding between people.",
+      "Deep Sensitivity – Possessing a heightened awareness of emotional nuances, unspoken feelings, and the subtle energies in people and environments.",
+      "Genuine Supportiveness – Instinctively offering encouragement, aid, and a nurturing presence to those in need, often acting as a confidant or helper."
+    ],
+    "strengths": [
+      "Highly Cooperative – Excelling in teamwork, collaboration, and partnership, valuing shared effort and collective success over individual acclaim.",
+      "Profoundly Empathetic – Having a strong capacity to truly understand, share, and validate the feelings and perspectives of others, fostering deep connection.",
+      "Remarkably Patient – Able to wait calmly for outcomes, understand others' timelines and processes, and handle delicate situations with grace and composure."
+    ],
+    "weaknesses": [
+      "Can be Overly Passive – May tend to defer to others or avoid asserting oneself, leading to personal needs being unmet or resentment building over time.",
+      "Prone to Indecisiveness – The ability to see all sides of an issue can sometimes make it difficult to make firm choices, fearing a wrong decision or upsetting someone.",
+      "Easily Hurt or Affected – Due to high sensitivity, can be deeply impacted by criticism, harshness, or discordant energies, sometimes taking things too personally."
+    ],
+    "business": "You thrive in collaborative partnerships and often prefer influential behind-the-scenes roles where your interpersonal skills can shine. Consider careers in mediation, counseling, human resources, teaching, customer relations, diplomacy, or any support-focused profession that values empathy and harmonious teamwork.",
+    "purpose": "To act as a conduit for peace, profound understanding, and genuine cooperation in the world, utilizing your empathetic and cooperative nature to help others feel heard, validated, and connected. Your essence is to unify, balance energies, and nurture harmonious relationships, fostering a climate of mutual respect and emotional intelligence wherever you go.",
+    "relationships": "You need and cultivate emotional depth, unwavering loyalty, and sincere connection in your partnerships. Your ideal partner values emotional intelligence, practices open and honest communication, and offers mutual respect, support, and understanding, creating a safe and harmonious bond.",
+    "vibration": "Peaceful, sensitive, cooperative, and deeply receptive – Your energy often has a calming, soothing effect, encouraging trust, openness, and a sense of gentle harmony in interactions.",
+    "color": "Orange – Symbolizing warmth, emotional expression, creativity in relationships, balance, and sociability. It reflects your nurturing, receptive, and harmonizing qualities.",
+    "element": "Water – Reflecting your fluidity, empathy, intuitive depth, and ability to connect on an emotional level. Like water, you seek to find common ground and flow harmoniously.",
+    "insight": "You are the natural peacemaker and harmonizer, possessing an innate ability to balance diverse energies, mediate conflicts, and foster a sense of unity and understanding in any group or situation."
+  },
+  "3": {
+    "description": "The Communicator. Threes are exceptionally expressive, inherently artistic, and highly social individuals, often drawn to creative, entertaining, and communicative pursuits where they can share their vibrant energy and imaginative ideas with an audience.",
+    "advice": "Strive to balance your innate desire for fun, spontaneity, and diverse experiences with the necessary discipline to see creative projects through to completion. Focus your abundant energy strategically to avoid scattering it too widely across too many endeavors, which can dilute your impact.",
+    "master": false,
+    "traits": [
+      "Vibrant Creativity – Possessing a rich imagination and a natural talent for artistic, verbal, or innovative forms of self-expression.",
+      "Infectious Optimism – Maintaining a generally hopeful and positive outlook on life, often inspiring and uplifting others with your cheerful disposition.",
+      "Effervescent Expression – Having a natural gift for communicating thoughts, feelings, and stories in an engaging, often charismatic and entertaining, manner."
+    ],
+    "strengths": [
+      "Naturally Charming – Possessing an engaging and magnetic personality that draws people in and makes interactions enjoyable and lively.",
+      "Artistically Inclined – Often gifted in areas such as writing, speaking, performing, visual arts, or any field that requires imaginative flair and aesthetic sense.",
+      "Boundlessly Enthusiastic – Approaching life and new projects with a contagious zeal and energy that can motivate and inspire those around you."
+    ],
+    "weaknesses": [
+      "Can be Superficial – May sometimes avoid deep emotional engagement or complex topics, preferring to keep interactions light, or may lack follow-through on less exciting tasks.",
+      "Prone to Moodiness – Your high emotional expressiveness can sometimes translate into fluctuating moods if not managed with self-awareness.",
+      "Potentially Disorganized – Your focus on creative flow and spontaneity might lead to a lack of structure, difficulty with routine tasks, or challenges in managing details."
+    ],
+    "business": "You shine brightly in roles that demand strong communication skills, creative flair, and an engaging presence. Fields like media, writing, public relations, marketing, performing arts, design, and event planning are natural fits for your talents. Any career where you can express your unique voice and connect with an audience will allow you to thrive.",
+    "purpose": "To act as a radiant source of inspiration, joy, and creative expression in the world, uplifting humanity with your unique voice, artistic talents, and optimistic spirit. Your core mission is to communicate with charm and enthusiasm, fostering connection and spreading positive energy through your imaginative endeavors.",
+    "relationships": "You bring a wonderful lightness, fun, and expressive joy to relationships. However, you often need a partner who can provide a degree of grounding, encourage focus, and appreciate your creative spirit while also helping you navigate the more practical aspects of life together.",
+    "vibration": "Expressive, joyful, creative, and highly communicative – Your energy is typically uplifting, stimulating, and vibrant, encouraging laughter, conversation, and the sharing of ideas.",
+    "color": "Yellow – Symbolizing joy, intellect, optimism, creativity, communication, and mental agility. It reflects your bright, cheerful, articulate, and expressive nature.",
+    "element": "Air – Reflecting your quick mind, love of communication, sociability, and ability to generate and share ideas. Like air, you are often light, expansive, and a connector.",
+    "insight": "Your infectious enthusiasm and creative expression have a powerful capacity to uplift others, spread positive energy, and bring a sense of joy and vibrancy to any environment you grace."
+  },
+  "4": {
+    "description": "The Builder. Fours are eminently practical, highly disciplined, and exceptionally grounded individuals who deeply value order, structure, hard work, and tangible results. They are the steadfast constructors of secure and lasting foundations in all aspects of life.",
+    "advice": "Consciously cultivate openness to flexibility, embrace creative problem-solving, and allow for spontaneity. Be mindful not to become trapped in rigid routines, overly cautious mindsets, or an excessively judgmental stance towards new or unconventional approaches. Sometimes the best-laid plans benefit from inspired deviation.",
+    "master": false,
+    "traits": [
+      "Unwavering Stability – Providing a sense of security, predictability, and steadfastness in their endeavors and relationships.",
+      "Strong Self-Discipline – Possessing the ability to adhere to routines, maintain focus, and apply consistent effort towards achieving long-term goals.",
+      "Deep Responsibility – Taking commitments seriously and demonstrating a strong sense of duty and accountability in all their undertakings."
+    ],
+    "strengths": [
+      "Exceptionally Loyal – Steadfast and devoted in their commitments to people, causes, and tasks they undertake, offering unwavering support.",
+      "Highly Organized – Naturally skilled at creating order, implementing effective systems, and managing details with precision and thoroughness.",
+      "Extremely Reliable – Consistently dependable and trustworthy; others know they can count on you to follow through and deliver as promised."
+    ],
+    "weaknesses": [
+      "Can be Rigid or Inflexible – May struggle with adapting to unexpected changes, new ideas, or different ways of doing things, preferring established methods.",
+      "Potentially Overly Cautious – A tendency to be excessively careful or risk-averse, which can sometimes lead to missed opportunities or slow progress.",
+      "Inclined to be Judgmental – May have fixed ideas about how things 'should' be done, leading to criticism of approaches that deviate from their own standards or understanding."
+    ],
+    "business": "You excel in structured environments and roles that demand meticulous planning, attention to detail, and dependable execution. Fields like construction, engineering, architecture, accounting, project management, system administration, or any career requiring a methodical and reliable nature suit you perfectly.",
+    "purpose": "To be a master of practical application and disciplined effort, dedicated to creating lasting structures—whether physical, systemic, or metaphorical—that bring security, order, and enduring value to the world. Your core mission is to build strong foundations, ensure stability, and demonstrate the power of persistent, methodical work.",
+    "relationships": "You are an exceptionally loyal, committed, and dependable partner. You seek and thrive with a reliable partner who shares your core values, appreciates your strong work ethic, and is equally dedicated to building a secure and stable life together.",
+    "vibration": "Stable, grounded, reliable, and deeply practical – Your energy provides a sense of security, calm, and dependability, making you a centering and reassuring presence.",
+    "color": "Green – Symbolizing growth, stability, practicality, endurance, and connection to the earth. It reflects your grounded, dependable, and constructive nature.",
+    "element": "Earth – Reflecting your grounded nature, practicality, focus on the material world, and ability to build and maintain. Like earth, you provide a solid foundation for growth and security.",
+    "insight": "Your unwavering persistence and methodical approach are the cornerstones that build strong, reliable foundations essential for lasting success, security, and societal progress."
+  },
+  "5": {
+    "description": "The Adventurer. Fives are exceptionally dynamic, insatiably curious, and fiercely freedom-loving individuals who constantly crave variety, new experiences, and the liberty to explore life's myriad possibilities without constraint.",
+    "advice": "Focus on channeling your abundant and restless energy constructively towards defined goals or learning experiences. Be mindful to avoid recklessness, overindulgence in sensory pleasures, or a fear of commitment that prevents you from experiencing the depth that responsible engagement can bring.",
+    "master": false,
+    "traits": [
+      "Love of Freedom – Cherishing personal liberty, autonomy, and the ability to make choices unhindered by convention or excessive restriction.",
+      "High Adaptability – Possessing a remarkable ability to adjust quickly and thrive in new environments, changing situations, or when faced with the unexpected.",
+      "Insatiable Curiosity – Driven by a strong desire to learn, explore diverse subjects, meet new people, and understand the multifaceted world around them."
+    ],
+    "strengths": [
+      "Highly Versatile – Capable of excelling in many different areas, quick to pick up new skills, and able to wear many hats with competence and flair.",
+      "Exceptionally Energetic – Possessing a high level of vitality and enthusiasm that fuels their adventurous pursuits and ability to engage with life fully.",
+      "Naturally Progressive – Often forward-thinking, open to new ideas, and eager to embrace change and innovation, making them agents of progress."
+    ],
+    "weaknesses": [
+      "Can be Restless and Unsettled – Finding it difficult to stay in one place, focus on one thing for too long, or commit deeply, always seeking the next thrill or new stimulation.",
+      "Potentially Irresponsible – The love of freedom can sometimes lead to avoiding commitments, duties, or the consequences of impulsive actions.",
+      "Prone to Impulsiveness – Apt to make sudden decisions or take risks without fully considering the long-term implications, driven by a desire for novelty or excitement."
+    ],
+    "business": "You thrive in dynamic, fast-paced environments that offer constant change, stimulation, and opportunities for new learning. Careers in travel and tourism, media and journalism, sales and marketing (especially roles with variety), public relations, freelance work, entrepreneurship in innovative fields, or anything that involves engaging with diverse people and ideas suit your nature.",
+    "purpose": "To embody the spirit of exploration and act as a catalyst for change, inspiring others to embrace personal freedom, adapt to life's constant shifts, and courageously explore the world's myriad possibilities. Your core mission is to push boundaries, challenge the status quo, and demonstrate the transformative power of curiosity and adventurous living.",
+    "relationships": "You seek excitement, intellectual stimulation, and a partner who respects your need for independence and variety. A flexible, open-minded, and adventurous partner who is willing to explore life alongside you, rather than trying to pin you down, suits your free spirit best.",
+    "vibration": "Energetic, adventurous, flexible, and constantly seeking – Your energy is dynamic, stimulating, and often unpredictable, encouraging others to embrace change and new experiences.",
+    "color": "Blue (often a vibrant, sky blue) – Symbolizing freedom, expansiveness, communication, adventure, and truth-seeking. It reflects your love of open horizons and new discoveries.",
+    "element": "Air – Reflecting your quick mind, love of freedom and movement, communicative nature, and ability to adapt and change. Like the wind, you are often restless and seeking new vistas.",
+    "insight": "Your inherently restless and curious spirit constantly pushes existing boundaries, explores uncharted territories, and opens up new horizons of thought, experience, and possibility for yourself and others."
+  },
+  "6": {
+    "description": "The Nurturer. Sixes are deeply compassionate, highly responsible, and exceptionally family-oriented individuals, often naturally gravitating towards caregiver roles where they can express their profound desire to protect, support, and foster well-being in others.",
+    "advice": "Be careful not to lose your own identity or neglect your personal needs while dedicating yourself to helping others. Consciously establish and maintain healthy boundaries, practice regular self-care, and empower others to also take responsibility for themselves, avoiding the trap of over-functioning for them.",
+    "master": false,
+    "traits": [
+      "Deep Sense of Responsibility – Taking duties and commitments, especially towards loved ones and community, with utmost seriousness and dedication.",
+      "Commitment to Service – Finding fulfillment in helping others, contributing to the well-being of their community, and making a positive difference.",
+      "Profound Compassion – Possessing a strong empathy and a sincere desire to understand, comfort, and alleviate the suffering or burdens of others."
+    ],
+    "strengths": [
+      "Exceptionally Loving and Affectionate – Expressing care and devotion openly, creating a warm and supportive atmosphere for those they cherish.",
+      "Naturally Protective – Having a strong instinct to shield, defend, and ensure the safety and security of loved ones and those under their care.",
+      "Unwaveringly Loyal – Deeply committed and steadfast in their relationships, friendships, and to causes they believe in, offering enduring support."
+    ],
+    "weaknesses": [
+      "Can be Overbearing or Controlling – In their desire to protect and care for others, may sometimes become too directive, smothering, or interfere excessively.",
+      "Prone to Self-Sacrifice – May neglect their own needs, desires, and well-being to an unhealthy extent in their unwavering dedication to others, leading to burnout.",
+      "Inclined to be Judgmental (especially regarding duty/care) – May hold strong opinions about how others should behave or care for responsibilities, becoming critical if these standards aren't met."
+    ],
+    "business": "You excel in professions centered around caregiving, education, healthcare, social work, community service, human resources, or any role that allows you to directly nurture, support, and guide others towards well-being and development. Creating a harmonious and supportive work environment is also a strength.",
+    "purpose": "To be a beacon of love, support, and responsible care, dedicated to healing and nurturing others, thereby building harmony, stability, and a strong sense of community. Your core mission is to demonstrate the power of selfless service and compassionate action, creating safe and loving environments where individuals can thrive.",
+    "relationships": "You are an exceptionally devoted, protective, and nurturing partner. You seek a stable, loving, and committed relationship with someone who values family, loyalty, and mutual care, and who appreciates your deep sense of responsibility and desire to create a harmonious home life.",
+    "vibration": "Caring, responsible, harmonious, and deeply nurturing – Your energy provides a sense of comfort, security, and unconditional support, making others feel safe and cherished.",
+    "color": "Indigo (or deep blue) – Symbolizing responsibility, intuition, integrity, and deep compassion. It reflects your caring, protective nature and commitment to service.",
+    "element": "Earth (can also have Water influences due to compassion) – Reflecting your desire to provide practical support, stability, and a nurturing foundation for family and community. The Earth connection emphasizes reliability in care.",
+    "insight": "Your intrinsically nurturing nature and deep sense of responsibility create an atmosphere of warmth, safety, and profound emotional security for those fortunate enough to be around you."
+  },
+  "7": {
+    "description": "The Seeker. Sevens are profoundly introspective, keenly analytical, and inherently spiritual individuals, constantly engaged in a deep and often solitary search for underlying truths, esoteric knowledge, and a greater understanding of life's mysteries.",
+    "advice": "Guard against tendencies towards excessive isolation, emotional detachment, or cynicism, which can arise from intense mental focus. Make a conscious effort to stay connected to others in meaningful ways, share your insights when appropriate, and balance your inner quest with engagement in the world.",
+    "master": false,
+    "traits": [
+      "Profound Wisdom – Possessing an innate capacity for deep understanding, insight, and the accumulation of specialized or esoteric knowledge.",
+      "Strong Intuition – Having a well-developed inner guidance system, often experiencing clear intuitive hits or a deep sense of knowing beyond logical deduction.",
+      "Keen Analytical Skills – Excelling at dissecting complex problems, researching information thoroughly, and engaging in deep, logical thought processes."
+    ],
+    "strengths": [
+      "Highly Insightful – Able to perceive hidden truths, understand complex patterns, and offer unique, often brilliant, perspectives on various subjects.",
+      "Deeply Reflective – Prone to thoughtful contemplation and introspection, carefully considering matters before forming conclusions or sharing opinions.",
+      "Fiercely Independent (in thought) – Valuing intellectual autonomy and often pursuing knowledge or spiritual paths that are unconventional or self-directed."
+    ],
+    "weaknesses": [
+      "Can be Aloof or Detached – May appear distant, reserved, or emotionally unavailable, preferring solitude or intellectual pursuits over social interaction.",
+      "Potentially Overly Critical or Skeptical – While analytical, can sometimes become excessively doubtful, cynical, or dismissive of things not proven by logic or personal rigorous investigation.",
+      "Prone to Withdrawal or Isolation – The strong need for solitude, if unchecked, can lead to loneliness, difficulty forming close bonds, or a disconnect from everyday life."
+    ],
+    "business": "You are exceptionally well-suited for careers in research, science, technology (especially analysis or development), philosophy, writing (especially on specialized or profound topics), spiritual teaching, investigative work, or any field that requires deep thinking, specialized knowledge, and an ability to work independently to uncover truths or solve complex problems.",
+    "purpose": "To delve into the profound mysteries of existence, uncover hidden truths through diligent seeking and analysis, and bring enlightening spiritual or intellectual insights to the world. Your core mission is to be a beacon of wisdom and understanding, encouraging deeper thought and a quest for knowledge in others, often from a place of quiet contemplation and specialized expertise.",
+    "relationships": "You need a partner who profoundly respects your essential need for solitude, intellectual space, and supports your inner journey of discovery. An ideal relationship involves deep mental and spiritual connection, intelligent conversation, and mutual understanding without excessive demands for constant social engagement or emotional display.",
+    "vibration": "Intellectual, spiritual, analytical, and deeply introspective – Your energy often carries an air of quiet intelligence, mystery, and profound depth, inviting curiosity and respect for your thoughtful nature.",
+    "color": "Violet (or purple) – Symbolizing wisdom, spirituality, intuition, introspection, mystery, and the search for higher knowledge. It reflects your connection to deeper, often unseen, realms of thought and consciousness.",
+    "element": "Water (often associated with depth and intuition, though some link 7 to Air for intellect) – Reflecting your depth of thought, intuitive capabilities, and the often mysterious or hidden nature of your quest. Like deep water, your surface may be still while much occurs beneath.",
+    "insight": "Your dedicated introspection and analytical probing inevitably lead to profound understanding, uncommon wisdom, and insights that can illuminate complex truths for yourself and others."
+  
+
+  },
+ 
+  "8": {
+    "description": "The Executive. Eights are exceptionally ambitious, powerfully driven, and highly capable individuals destined for significant success and influence in the material world. They possess a natural authority and a strategic mind geared towards achievement and building lasting enterprises.",
+    "advice": "Consciously wield your considerable power and influence responsibly and ethically. Strive to balance your strong ambition and drive for material success with principles of integrity, compassion for those affected by your decisions, and a broader vision that includes more than personal gain. Avoid letting the pursuit of goals lead to ruthlessness.",
+    "master": false,
+    "traits": [
+      "Inherent Power – Possessing a natural ability to command respect, influence situations, and wield authority effectively, often taking charge instinctively.",
+      "Drive for Success – Characterized by an intense ambition and a relentless pursuit of high-level achievements and recognition in their chosen field.",
+      "Natural Authority – Exuding an aura of competence, control, and leadership that often leads others to defer to their judgment and direction."
+    ],
+    "strengths": [
+      "Highly Strategic – Excelling at long-range planning, identifying opportunities, and formulating effective approaches to achieve complex objectives.",
+      "Extremely Resilient – Demonstrating remarkable toughness and the ability to bounce back from setbacks, overcome obstacles, and persevere in the face of adversity.",
+      "Intensely Goal-oriented – Maintaining a laser-like focus on their objectives, driven by a powerful determination to see them through to successful completion."
+    ],
+    "weaknesses": [
+      "Can be Controlling or Domineering – The desire for efficiency and results may lead to an over-reliance on control, potentially stifling others or becoming dictatorial.",
+      "Risk of Materialism – A strong focus on worldly success can sometimes lead to an excessive attachment to wealth, status, and possessions, overshadowing other values.",
+      "Prone to Workaholism – The immense drive to achieve can result in an unhealthy devotion to work, neglecting personal relationships, health, and overall well-being."
+    ],
+    "business": "You are naturally suited to and thrive in high-stakes environments such as business leadership, finance, entrepreneurship, law, and executive management. Your strategic acumen, resilience, and powerful drive give you the potential to build empires, lead large organizations, and make a significant mark in the corporate or public sphere.",
+    "purpose": "To embody the archetype of the consummate executive and strategic leader, driven by an unwavering focus on achieving substantial success and demonstrating authoritative competence. The core mission is to achieve profound mastery within the material world, skillfully accumulating wealth, influence, and power not merely as ends in themselves, but as potent tools to create significant, positive, and lasting impact on structures, organizations, and society at large, leading with vision and executive prowess for the betterment of many.",
+    "relationships": "You require a strong, self-assured, and exceptionally supportive partner who genuinely understands and respects your ambitious goals and can gracefully handle your inherent intensity. A partner who is an equal, offering both encouragement and a balancing perspective, is ideal.",
+    "vibration": "Powerful, ambitious, authoritative, and intensely magnetic – Your energy commands attention, conveys competence, and has the capacity to mobilize significant resources and effort towards chosen goals.",
+    "color": "Gold (can also be deep reds, black, or forest green) – Symbolizing wealth, power, success, wisdom, and high achievement. It reflects your capacity for material mastery and executive presence.",
+    "element": "Fire (often associated, though Earth for material mastery is also apt) – Reflecting your intense drive, ambition, and the power to command and transform. Fire fuels your executive action. (If Earth: Reflecting your ability to manifest tangible results and build enduring structures in the material world).",
+    "insight": "Your formidable determination and strategic execution have the profound capacity to move mountains, overcome immense challenges, and create tangible, impactful results that can reshape environments and industries."
+  },
+  "9": {
+    "description": "The Humanitarian. Nines are profoundly compassionate, inherently idealistic, and exceptionally generous individuals, often deeply devoted to serving the greater good and making a positive difference in the world. They possess a broad, universal love for humanity.",
+    "advice": "Practice the art of letting go—of past hurts, old resentments, and outcomes you cannot control—to maintain your emotional health. Strive to avoid martyrdom by balancing your innate desire to give with a healthy capacity to receive and care for your own needs. True compassion includes self-compassion.",
+    "master": false,
+    "traits": [
+      "Universal Compassion – Possessing a deep, all-encompassing empathy and concern for the well-being of humanity, transcending personal biases.",
+      "Inspiring Idealism – Holding a strong belief in the potential for a better world and striving to contribute to positive social and spiritual evolution.",
+      "Innate Wisdom (often of the heart) – Often exhibiting a mature understanding of human nature, forgiveness, and the interconnectedness of life, guiding their actions."
+    ],
+    "strengths": [
+      "Truly Charitable and Giving – Genuinely selfless in their desire to help others, often dedicating time, resources, and energy to altruistic causes without expectation of return.",
+      "Broadly Visionary – Capable of seeing the bigger picture, understanding global issues, and inspiring others with their encompassing vision for a more harmonious world.",
+      "Naturally Forgiving – Possessing a remarkable ability to let go of grievances, extend understanding, and promote reconciliation, fostering healing in relationships and communities."
+    ],
+    "weaknesses": [
+      "Can be Overly Emotional or Absorb Negativity – Deep empathy can lead to being easily overwhelmed by the suffering of others or by the weight of global problems if not properly managed.",
+      "Potentially Self-righteous or Impractical – Strong idealism, if ungrounded, can sometimes manifest as an inflexible stance or unrealistic expectations of others or the world.",
+      "Tendency towards Escapism or Melancholy – The burden of their compassionate awareness can sometimes lead to a desire to withdraw from harsh realities or a susceptibility to sadness if they feel powerless."
+    ],
+    "business": "You are naturally drawn to and excel in fields such as philanthropy, humanitarian aid, social work, the arts (especially with a message of social impact), education, spiritual counseling, environmental activism, or any global cause where your purpose extends far beyond material gain and focuses on uplifting others.",
+    "purpose": "To embody the spirit of the dedicated humanitarian and compassionate visionary, tirelessly working to uplift humanity and contribute to a more just, peaceful, and loving world. Your core mission is to inspire global love and foster selfless service through your profound empathy, wisdom, and unwavering commitment to the greater good, often acting as a catalyst for positive social and spiritual transformation.",
+    "relationships": "You are a deep, emotional, and giving partner. Your ideal partner shares your humanitarian vision and core values, possesses strong empathy, and is committed to making a positive impact alongside you, appreciating your profound capacity for love and service.",
+    "vibration": "Compassionate, idealistic, visionary, and universally loving – Your energy is expansive, inclusive, and deeply healing, often inspiring those around you to connect with their own altruistic impulses.",
+    "color": "Purple (or lavender, magenta, white) – Symbolizing wisdom, spirituality, humanitarianism, compassion, and universal consciousness. It reflects your connection to higher ideals and selfless service.",
+    "element": "Water (can also have Fire aspects for inspirational qualities) – Reflecting your deep empathy, fluidity of compassion, and intuitive understanding of emotional currents. Water allows you to connect with and nurture humanity on a profound level.",
+    "insight": "Your profound generosity of spirit and unwavering commitment to compassionate action serve as a powerful inspiration, motivating others to act for the common good and contribute to a more caring world."
+  },
+  "11": {
+    "description": "The Visionary (The Spiritual Messenger). Master Number Elevens are exceptionally spiritually gifted, highly intuitive, and profoundly inspiring individuals, often acting as channels or conduits for higher wisdom, innovative ideas, and illuminating insights that can awaken and guide others.",
+    "advice": "Diligently work to ground your powerful spiritual visions and intuitive insights in practical, actionable steps. Develop robust emotional and energetic management techniques (like meditation, grounding, and boundary setting) to navigate your heightened sensitivity without becoming paralyzed by anxiety or external energies. Trust your inner voice and find tangible ways to share your light.",
+    "master": true,
+    "traits": [
+      "Divine Inspiration – Possessing an extraordinary ability to receive and channel innovative ideas, artistic creations, and spiritual truths that can uplift and enlighten.",
+      "Acute Intuition – Having exceptionally strong inner knowing, psychic perception (clairvoyance, clairsentience, etc.), and an ability to access information beyond the physical senses.",
+      "Profound Spiritual Insight – Accessing deep wisdom, understanding universal laws, and perceiving the interconnectedness of life, often with a clarity that can guide transformative change."
+    ],
+    "strengths": [
+      "Truly Visionary – Capable of conceiving and articulating far-reaching ideas and possibilities that can inspire new paradigms and collective evolution.",
+      "Deeply Empathic – Highly attuned to the emotions, energies, and unspoken needs of others, allowing for profound connection and compassionate understanding.",
+      "Naturally Charismatic (often in a subtle, spiritual way) – Exuding a magnetic and often spiritually infused presence that draws people to your message and your calming, uplifting energy."
+    ],
+    "weaknesses": [
+      "Prone to Overwhelm/Anxiety – Extreme sensitivity to energies and the intensity of intuitive downloads can lead to nervous tension, anxiety, and feeling easily overloaded by the mundane world or collective suffering.",
+      "Susceptible to Nervous Tension – The high vibrational frequency can manifest as restlessness, difficulty relaxing, or a feeling of being 'wired' if not properly channeled and grounded.",
+      "Can be Unrealistic or Impractical – May struggle to translate lofty visions into concrete reality or to navigate the practical demands of daily life if not consciously working on grounding strategies."
+    ],
+    "business": "You excel in roles that allow you to inspire, uplift, and share your unique insights, such as spiritual teaching, intuitive counseling, healing arts, visionary artistic endeavors (writing, music, art), innovative forms of therapy, or by bringing a higher level of consciousness, ethics, and inspiration to any field you choose. Authenticity and purpose-driven work are key.",
+    "purpose": "To embody the archetype of the inspired Visionary and act as a direct channel for higher wisdom, illuminating the path for others towards spiritual awakening, greater awareness, and innovative thought. Your core mission is to enlighten and uplift humanity by courageously sharing your profound intuition, creative inspirations, and spiritual insights, bridging the spiritual and material realms to foster positive transformation.",
+    "relationships": "You seek a deep, soulful, and spiritually resonant connection. Your ideal partner is emotionally intelligent, honors your profound emotional depth and visionary dreams, respects your sensitivity and need for solitude, and is committed to mutual spiritual growth and authentic living.",
+    "vibration": "Intuitive, inspiring, spiritual, and highly perceptive – Your energy is often felt as refined, electric, uplifting, and capable of sparking profound insights and a sense of higher connection in others.",
+    "color": "Silver (or iridescent white, electric blue) – Symbolizing intuition, illumination, purity, spiritual connection, and the reflection of higher light. It represents your role as a conduit for divine inspiration.",
+    "element": "Air (often considered a higher octave, representing Ether or Spirit) – Reflecting your connection to higher planes of thought, inspiration, intuition, and the transmission of spiritual ideas. You act as a bridge between realms of consciousness.",
+    "insight": "Your profound and often uncanny insight serves as a vital bridge connecting the spiritual and physical worlds, offering illumination, guidance, and a pathway to higher understanding for those ready to receive it."
+  },
+  "22": {
+    "description": "The Master Builder. Master Number Twenty-twos are exceptionally powerful individuals who uniquely combine lofty, inspired dreams with grounded, practical action, making them capable of manifesting large-scale, impactful change and building enduring legacies for humanity.",
+    "advice": "Maintain a strong connection to your grounding principles and focus your immense energy diligently; actively work to avoid becoming overwhelmed by the sheer scale of your ambitions or the weight of responsibility. Temper your powerful drive with humility, patience, and a consistent commitment to service in all your endeavors.",
+    "master": true,
+    "traits": [
+      "Applied Mastery – Demonstrating an exceptional ability to achieve high levels of competence and command in chosen fields, particularly those involving large-scale creation or organization.",
+      "Pragmatic Vision – Possessing the rare capacity to conceive grand, idealistic, and transformative projects while simultaneously understanding and meticulously planning the practical steps for their realization.",
+      "Unwavering Practicality – Rooted in a down-to-earth approach, focusing on what is feasible, efficient, and will produce tangible, lasting results on a significant scale."
+    ],
+    "strengths": [
+      "Highly Disciplined – Exhibiting exceptional focus, determination, organizational prowess, and the ability to manage vast and complex undertakings with methodical precision.",
+      "Extremely Ambitious (for the greater good) – Driven by a powerful desire to achieve monumental goals that often have a broad, beneficial impact on society or the world.",
+      "Exceptionally Innovative (in application) – Skillfully combining visionary ideas with practical know-how to create novel solutions, systems, or structures that are both groundbreaking and workable."
+    ],
+    "weaknesses": [
+      "Risk of Overburdening/Stress – The immense scope of your undertakings and deep sense of responsibility can lead to chronic stress, burnout, or feeling crushed by pressure if self-care is neglected.",
+      "Potential for Rigidity/Inflexibility – Strong conviction in your plans can sometimes lead to an unwillingness to adapt, consider alternative approaches, or accept limitations gracefully.",
+      "Can be Stubborn or Autocratic – The power and clarity of your vision, if not balanced with collaborative spirit, might manifest as an overly controlling or unyielding approach to leadership."
+    ],
+    "business": "You excel in significant leadership roles involving large-scale projects with far-reaching impact, such as architecture, engineering, urban planning, international business, politics, social reform, or founding major philanthropic organizations. Your gift is turning grand visions into concrete, beneficial realities for many.",
+    "purpose": "To embody the archetype of the Master Builder, skillfully combining inspired vision with disciplined, practical action to manifest great dreams into tangible reality. Your core mission is to construct enduring foundations, systems, and legacies that significantly benefit future generations and contribute to the positive evolution of humanity on a grand scale.",
+    "relationships": "You need a profoundly supportive, stable, and understanding partner who can appreciate the magnitude of your drive and vision, while also providing emotional stability, grounding, and a peaceful haven from the demands of your ambitious undertakings. A true partner in purpose is invaluable.",
+    "vibration": "Powerful, visionary, practical, and deeply transformative – Your energy is commanding, grounded, and carries the palpable potential to reshape environments and actualize monumental achievements.",
+    "color": "Blue-Grey (or deep earthy tones, indigo) – Symbolizing strength, stability, practicality, vastness, wisdom, and the ability to manifest enduring structures. It reflects your grounded power and building capacity.",
+    "element": "Earth (Mastery of Earth) – Representing your unparalleled ability to manifest large-scale, practical, and enduring creations in the material world, grounding divine inspiration into concrete form for widespread, lasting benefit.",
+    "insight": "You possess the extraordinary ability to bring ambitious dreams vividly to life through focused, strategic effort and unwavering determination, translating visionary concepts into tangible, world-changing realities."
+  },
+  "33": {
+    "description": "The Master Teacher (The Healer of Healers). Master Number Thirty-threes are profoundly compassionate, spiritually advanced leaders dedicated to the selfless service of healing, teaching, and uplifting humanity with unconditional love and profound wisdom.",
+    "advice": "Diligently balance your immense dedication to service with consistent and prioritized self-care to avoid emotional, spiritual, and physical burnout from overcommitting. Your capacity to give is vast, but it must be nurtured from a full well. Teach by the loving example of your life, but also empower others on their own paths.",
+    "master": true,
+    "traits": [
+      "Unconditional Compassion – Possessing a boundless, non-judgmental empathy and an all-encompassing love for humanity, feeling a deep, resonant connection to all beings and their suffering.",
+      "Profound Healing Abilities – Often gifted with a natural capacity to facilitate deep emotional, spiritual, and sometimes physical healing in individuals and groups, acting as a conduit for restorative energies.",
+      "Inspirational Leadership (through love) – Guiding and motivating others not through authority, but through the sheer power of your loving presence, wisdom, and compassionate actions, inspiring heartfelt transformation."
+    ],
+    "strengths": [
+      "Deeply Altruistic – Genuinely selfless in your desire to alleviate suffering and promote well-being, often placing the needs of humanity and the greater good at the forefront of your endeavors.",
+      "Exceptionally Inspirational – Able to uplift, motivate, and instill hope and spiritual awareness in others through your words, actions, creative expressions, and the loving energy you radiate.",
+      "Inherently Wise (with heart-centered wisdom) – Possessing a profound understanding of human nature, spiritual principles, and the pathways to healing and joy, shared with gentle guidance."
+    ],
+    "weaknesses": [
+      "Risk of Overwhelm/Burnout – Your profound empathy means you feel the pain and negativity of the world with extreme intensity, which can be debilitating and lead to exhaustion if not managed with strong spiritual grounding and impeccable self-care routines.",
+      "Tendency towards Self-Sacrifice to Detriment – The powerful urge to serve can lead to consistently neglecting your own essential needs, potentially resulting in martyrdom or diminished capacity to help effectively in the long term.",
+      "Vulnerable Idealism – Your deep belief in universal love and the inherent goodness of humanity, while a strength, can sometimes make you susceptible to being taken advantage of, or lead to profound disillusionment when faced with persistent harsh realities or betrayal."
+    ],
+    "business": "You excel in professions that allow you to directly offer healing, support, teaching, and spiritual guidance on a significant scale. This includes founding or leading healing centers, educational institutions based on compassionate principles, large-scale counseling services, impactful artistic creations that promote love and unity, or global humanitarian efforts focused on deep healing and fostering spiritual awareness.",
+    "purpose": "To embody the archetype of the Master Teacher and Healer, dedicated to uplifting and transforming humanity through the profound expression of unconditional love, selfless service, and compassionate wisdom. Your core mission is to heal wounds, inspire spiritual growth, and guide others towards a more loving, harmonious, and enlightened existence, acting as a global beacon of hope and divine compassion.",
+    "relationships": "You seek and nurture profoundly deep, spiritually resonant connections. Your ideal partner is equally compassionate, supports your altruistic mission wholeheartedly, understands your need for both connection and solitary rejuvenation, and actively participates in creating a loving, nurturing, and spiritually aligned life together.",
+    "vibration": "Healing, compassionate, inspirational, and profoundly loving – Your energy is exceptionally gentle yet powerfully transformative, radiating comfort, peace, and an unconditional acceptance that can touch and mend many souls.",
+    "color": "Rose Gold (or opalescent white, soft pinks, light violets) – Symbolizing unconditional love, divine compassion, healing, spiritual grace, tenderness, and the highest form of heart-centered service. It reflects your gentle yet powerful spiritual radiance and nurturing essence.",
+    "element": "Water (Mastery of Emotional/Spiritual Healing) – Representing your boundless compassion, profound healing abilities, intuitive wisdom, and deep emotional and spiritual understanding. You are a source of unconditional love, nurturing, and spiritual sustenance for humanity.",
+    "insight": "Your extraordinary capacity for love and profound wisdom acts as a powerful catalyst, transforming individual lives and inspiring positive global change towards greater compassion, healing, and unity."
+  }
+}

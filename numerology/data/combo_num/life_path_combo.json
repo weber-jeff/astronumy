@@ -1,0 +1,59 @@
+{
+"Life Path + Maturity": {
+        "1": "Strong-willed with a mature sense of purpose. Blossoms into an assertive leader.",
+        "2": "Grows into a peacekeeping role. Learns to lead through diplomacy and understanding.",
+        "3": "Matures into a communicator of joy. Refines artistic gifts and expressive talents.",
+        "4": "Life stabilizes into a dependable and hardworking presence. Master of structure and routine.",
+        "5": "Becomes a fearless explorer. Channels life changes into growth and adaptability.",
+        "6": "Evolves into a caregiver and protector. Matures with love, responsibility, and service.",
+        "7": "Wisdom grows with age. Deep inner knowledge leads to spiritual fulfillment.",
+        "8": "Ambition and power solidify. Matures into a capable executive and provider.",
+        "9": "Life path of compassion matures into universal service. Selfless and wise in later years.",
+        "11": "Spiritual calling becomes clearer with maturity. Inspires and leads through intuition.",
+        "22": "Realizes grand potential over time. Combines vision and discipline for legacy creation.",
+        "33": "Full maturation leads to unconditional love and selfless service. The world is their family."},
+
+         "Life Path + Expression": {
+        "1": "Independent leader who expresses individuality through action. Highly ambitious and self-driven.",
+        "2": "Diplomatic communicator with a gentle presence. Harmonizes self-expression and cooperation.",
+        "3": "Creative visionary who expresses joy and charm. Strong communicative and artistic abilities.",
+        "4": "Disciplined and reliable, grounded in hard work. Expresses through order and dedication.",
+        "5": "Adventurous spirit, embraces change and freedom of expression. Adaptable and energetic.",
+        "6": "Responsible nurturer with expressive empathy. Balances duty with aesthetic expression.",
+        "7": "Intellectual truth-seeker with deep insight. Expresses introspection and wisdom.",
+        "8": "Authoritative and goal-oriented with confident expression. Natural leader and achiever.",
+        "9": "Compassionate humanitarian who expresses through service. Idealistic and wise.",
+        "11": "Inspired visionary with magnetic expression. Spiritual insight fused with powerful creativity.",
+        "22": "Master builder who expresses grand visions through practical mastery. Balanced dreamer and doer.",
+        "33": "Master healer with divine compassion. Expresses unconditional love and nurtures the world."},
+
+        "Life Path + Challenge": {
+          "1": "Challenged to lead without dominance. Learns assertiveness with humility.",
+          "2": "Balance between passivity and assertiveness. Learns cooperation without weakness.",
+          "3": "Learns to express without exaggeration. Manages emotional sensitivity.",
+          "4": "Struggles with rigidity. Learns patience and flexibility in routine.",
+          "5": "Conflict between restlessness and focus. Learns discipline within freedom.",
+          "6": "Tendency to over-care. Learns self-care and personal boundaries.",
+          "7": "Must balance isolation with connection. Learns trust and emotional expression.",
+          "8": "Challenge of ego and power. Learns ethical ambition and generosity.",
+          "9": "Tends to over-give or martyr. Learns healthy detachment and perspective.",
+          "11": "Must manage intense inner demands. Learns to ground inspiration.",
+          "22": "Challenge to manifest grand plans. Learns patience and structured follow-through.",
+          "33": "Burden of over-responsibility. Learns self-compassion and pacing."
+        },
+        "Life Path + Soul Urge": {
+          "1": "Strong-willed with inner drive for independence. Acts on deep personal truth.",
+          "2": "Seeks harmony and connection in life direction. Guided by intuition and empathy.",
+          "3": "Creative path powered by emotional joy. Expresses passion with charisma.",
+          "4": "Stable builder driven by practical emotional needs. Purposeful and disciplined.",
+          "5": "Adventurous life with inner craving for freedom. Restless and dynamic.",
+          "6": "Devoted to nurturing and serving. Life and heart aligned in love and responsibility.",
+          "7": "Spiritual seeker with introspective emotional depth. Deep thinker and analyzer.",
+          "8": "Powerful leader with ambition aligned to inner strength. Results-driven and self-reliant.",
+          "9": "Life of service fueled by humanitarian passion. Wise, empathetic, and giving.",
+          "11": "Illuminated life path guided by spiritual longing. Inspirational and insightful.",
+          "22": "Master builder with vision rooted in soul purpose. Creates lasting impact.",
+          "33": "Universal caregiver living with divine intent. Healer in both action and emotion."
+        }}
+        
+        

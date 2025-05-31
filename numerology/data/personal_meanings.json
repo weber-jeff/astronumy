@@ -1,0 +1,337 @@
+{
+    "1": {
+  "description": "Leader and pioneer, driven to create and innovate. You are naturally independent and thrive when initiating new ventures or forging your own path. Your energy is forward-moving, and you dislike being restrained by rules or traditions.",
+  "advice": "Embrace responsibility and use your confidence wisely. Avoid arrogance and impulsiveness. Patience and humility will strengthen your leadership.",
+  "master": false,
+  "element": "Fire",
+  "color": "Red",
+  "vibrations": "Assertive, ambitious, bold",
+  "traits": ["Independent", "Ambitious", "Determined", "Assertive", "Goal-Oriented"],
+  "strengths": ["Leadership", "Courage", "Initiative", "Self-reliance", "Drive"],
+  "weaknesses": ["Stubborn", "Impatient", "Arrogant", "Insensitive", "Dominating"],
+  "business": "Entrepreneurship, executive positions, startups, tech innovation, motivational speaking, leadership consulting.",
+  "relationships": "You seek partners who respect your independence and support your ambitions. You’re passionate, direct, and need space to pursue your goals.",
+  "purpose": "To lead, create, and inspire others with your trailblazing spirit and unwavering determination.",
+  "challenges": "Managing ego, avoiding dominance, developing patience and collaboration.",
+  "spiritual_lesson": "Learning humility and leadership through service, not control.",
+  "health_influence": "Prone to stress-related conditions like high blood pressure; needs physical outlets for high energy.",
+  "shadow_side": "Can become egocentric, controlling, and emotionally distant when out of balance."
+},
+
+    "2": 
+    {
+  "description": "Diplomatic and sensitive, a natural peacemaker. You excel in cooperative environments and possess strong emotional intelligence. Your strength lies in your ability to listen, nurture, and harmonize.",
+  "advice": "Trust your intuition and find strength in your empathy. Avoid becoming overly dependent or self-sacrificing in relationships.",
+  "master": false,
+  "element": "Water",
+  "color": "Light Blue",
+  "vibrations": "Peaceful, intuitive, gentle",
+  "traits": ["Cooperative", "Sensitive", "Tactful", "Intuitive", "Gentle"],
+  "strengths": ["Harmony", "Support", "Listening", "Patience", "Emotional depth"],
+  "weaknesses": ["Overly sensitive", "Indecisive", "Passive", "Avoidant", "Fear of confrontation"],
+  "business": "Counseling, HR, healthcare, mediation, partnership management, supportive roles.",
+  "relationships": "You desire harmony and emotional connection. You are loyal, compassionate, and often the emotional anchor in partnerships.",
+  "purpose": "To bring people together, foster cooperation, and heal emotional wounds through kindness.",
+  "challenges": "Asserting yourself, setting boundaries, and making tough decisions.",
+  "spiritual_lesson": "Learning the power of balance, cooperation, and inner stillness.",
+  "health_influence": "May internalize stress; issues with digestion and reproductive organs common due to emotional sensitivity.",
+  "shadow_side": "Can become overly submissive, passive-aggressive, or dependent on others for identity."
+},
+
+    "3": {
+  "description": "Creative and expressive, full of joy and imagination. You are a communicator with a strong need to share your ideas, art, or voice with the world. Joy, beauty, and storytelling fuel your soul.",
+  "advice": "Stay focused and avoid scattering your energy. Ground your creativity in discipline to fulfill your potential.",
+  "master": false,
+  "element": "Air",
+  "color": "Yellow",
+  "vibrations": "Joyful, expressive, spontaneous",
+  "traits": ["Expressive", "Optimistic", "Artistic", "Playful", "Sociable"],
+  "strengths": ["Communication", "Creativity", "Joy", "Charisma", "Humor"],
+  "weaknesses": ["Scattered", "Superficial", "Overindulgent", "Avoidant of responsibilities"],
+  "business": "Entertainment, performing arts, writing, marketing, fashion, public relations.",
+  "relationships": "You bring joy, humor, and warmth. You value fun, spontaneity, and emotional connection but need partners who respect your freedom.",
+  "purpose": "To inspire and uplift others through creative expression and emotional truth.",
+  "challenges": "Staying grounded, avoiding escapism, and managing emotional ups and downs.",
+  "spiritual_lesson": "Finding meaning in joy and learning to express divine truth through creativity.",
+  "health_influence": "Vocal cords, throat, and nervous system are sensitive. Needs balance between rest and expression.",
+  "shadow_side": "Can become narcissistic, emotionally manipulative, or overly self-indulgent when misaligned."
+},
+
+    "4": {
+  "description": "Grounded and reliable, the builder of solid foundations. You value order, discipline, and practicality. You’re the backbone of any system and thrive in environments where hard work pays off.",
+  "advice": "Be open to flexibility and don’t fear change. Balance your need for control with trust in life’s flow.",
+  "master": false,
+  "element": "Earth",
+  "color": "Green",
+  "vibrations": "Stable, structured, dependable",
+  "traits": ["Practical", "Hardworking", "Organized", "Methodical", "Disciplined"],
+  "strengths": ["Discipline", "Dependability", "Structure", "Endurance", "Accountability"],
+  "weaknesses": ["Rigid", "Overcautious", "Stubborn", "Workaholic tendencies"],
+  "business": "Construction, architecture, law enforcement, planning, logistics, systems development.",
+  "relationships": "You provide stability and loyalty. You need secure, committed relationships and may struggle with emotionally expressive partners.",
+  "purpose": "To build lasting systems and secure futures through perseverance and integrity.",
+  "challenges": "Fear of change, rigidity, and difficulty expressing emotion.",
+  "spiritual_lesson": "Trust in divine order without needing full control. Build structures with soul, not just form.",
+  "health_influence": "Bones, joints, and lower back may be affected. Needs routines and rest to avoid burnout.",
+  "shadow_side": "Can become authoritarian, emotionally closed off, or overly focused on security at the expense of joy."
+},
+
+    "5": {
+  "description": "Adventurous and dynamic, always seeking freedom. You are a restless soul who thrives on change, variety, and excitement. Your energy is magnetic and constantly in motion.",
+  "advice": "Balance your desire for freedom with commitment. Discipline helps you manifest your abundant potential.",
+  "master": false,
+  "element": "Air",
+  "color": "Turquoise",
+  "vibrations": "Adventurous, energetic, free-spirited",
+  "traits": ["Versatile", "Energetic", "Curious", "Witty", "Dynamic"],
+  "strengths": ["Adaptability", "Exploration", "Enthusiasm", "Quick thinking", "Flexibility"],
+  "weaknesses": ["Restless", "Impulsive", "Irresponsible", "Easily bored"],
+  "business": "Travel, sales, digital media, journalism, performance, innovation-based ventures.",
+  "relationships": "You crave excitement, stimulation, and variety. You need partners who allow freedom and share your zest for life.",
+  "purpose": "To explore, experience, and share new perspectives with the world.",
+  "challenges": "Commitment, finishing what you start, avoiding escapism.",
+  "spiritual_lesson": "True freedom is internal. Grounding your energy creates real expansion.",
+  "health_influence": "Nervous system, lungs, and extremities may be overtaxed. Movement and flexibility are key.",
+  "shadow_side": "Can become reckless, irresponsible, or addicted to stimulation and novelty."
+},
+
+    "6": {
+  "description": "Nurturing and responsible, drawn to help and heal. You thrive in service-oriented roles and possess a strong moral compass rooted in love, harmony, and duty.",
+  "advice": "Set healthy boundaries while serving others. Don’t confuse love with control.",
+  "master": false,
+  "element": "Earth",
+  "color": "Pink",
+  "vibrations": "Loving, devoted, harmonious",
+  "traits": ["Caring", "Responsible", "Protective", "Supportive", "Idealistic"],
+  "strengths": ["Compassion", "Loyalty", "Balance", "Healing presence", "Integrity"],
+  "weaknesses": ["Overbearing", "Self-sacrificing", "Controlling", "Martyr complex"],
+  "business": "Healthcare, education, counseling, family services, arts, community outreach.",
+  "relationships": "You give deeply and seek emotional harmony. You are nurturing but must avoid codependency or being overly protective.",
+  "purpose": "To love, protect, and serve the well-being of others through heartfelt responsibility.",
+  "challenges": "Letting go, releasing control, and allowing others to grow on their own terms.",
+  "spiritual_lesson": "Learning unconditional love without losing self-identity.",
+  "health_influence": "Heart, digestive tract, and reproductive system are sensitive to emotional imbalance.",
+  "shadow_side": "Can become emotionally manipulative, judgmental, or self-denying to an unhealthy extent."
+},
+
+  "7": {
+    "description": "A seeker of truth, the number 7 is driven by a deep need to understand the world through logic, analysis, and inner reflection. Spiritual yet scientific, 7s crave solitude to cultivate their wisdom.",
+    "advice": "Learn to trust others and open up emotionally. Balance your inner quest with meaningful human connection.",
+    "master": false,
+    "element": "Water",
+    "color": "Purple",
+    "vibration": "Spiritual Seeker",
+    "traits": [
+      "Introspective",
+      "Analytical",
+      "Philosophical",
+      "Private",
+      "Inquisitive"
+    ],
+    "strengths": [
+      "Research and analysis",
+      "Spiritual awareness",
+      "Depth of thought",
+      "Perseverance",
+      "Intuition"
+    ],
+    "weaknesses": [
+      "Social withdrawal",
+      "Overthinking",
+      "Distrustful",
+      "Cold or aloof",
+      "Rigidity in beliefs"
+    ],
+    "business": "Excels in research, academia, spiritual teaching, psychology, writing, or scientific investigation.",
+    "relationships": "You need a partner who honors your need for space and intellectual stimulation. Emotional maturity and patience are key.",
+    "purpose": "To seek and share profound truths, merging intellect with spiritual insight to illuminate paths for others.",
+    "spiritual_lesson": "Trust in the unknown. Learn to balance logic with faith.",
+    "health_influence": "Prone to nervous system imbalances, insomnia, and stress-induced issues. Needs quiet reflection and routine.",
+    "challenges": "Isolation, fear of vulnerability, rigid mental frameworks.",
+    "shadow_side": "Judgmental, escapist, emotionally distant, or overly obsessed with perfection."
+  },
+  "8": {
+    "description": "A powerhouse of ambition and achievement, the number 8 symbolizes authority, material success, and personal power. 8s are natural leaders driven by goals and impact.",
+    "advice": "Balance ambition with ethics. Use your power to empower, not dominate.",
+    "master": false,
+    "element": "Earth",
+    "color": "Black or Dark Gray",
+    "vibration": "Power Manifested",
+    "traits": [
+      "Ambitious",
+      "Authoritative",
+      "Efficient",
+      "Strategic",
+      "Resilient"
+    ],
+    "strengths": [
+      "Leadership and management",
+      "Financial acumen",
+      "Decision-making",
+      "Tenacity",
+      "Vision and execution"
+    ],
+    "weaknesses": [
+      "Overly controlling",
+      "Materialistic tendencies",
+      "Workaholic",
+      "Aggressive",
+      "Emotionally repressed"
+    ],
+    "business": "Thrives in finance, law, executive leadership, real estate, or entrepreneurship.",
+    "relationships": "You seek loyalty and shared ambition. You respect strength and detest weakness in partnerships.",
+    "purpose": "To master the material world and use personal success to uplift others.",
+    "spiritual_lesson": "Learn humility, patience, and compassion. Success without soul is hollow.",
+    "health_influence": "Tends toward stress-related conditions, digestive issues, and lower back problems.",
+    "challenges": "Overidentification with status, fear of failure, and excessive control.",
+    "shadow_side": "Greedy, power-hungry, emotionally unavailable, ruthless when unbalanced."
+  },
+  "9": {
+    "description": "The humanitarian, the 9 is idealistic, compassionate, and driven to serve. You carry the wisdom of all previous numbers and feel a call to heal, create, and uplift.",
+    "advice": "Don\u2019t let your dreams detach you from reality. Serve from strength, not sacrifice.",
+    "master": false,
+    "element": "Fire",
+    "color": "Gold",
+    "vibration": "Universal Love",
+    "traits": [
+      "Empathetic",
+      "Creative",
+      "Visionary",
+      "Romantic",
+      "Philosophical"
+    ],
+    "strengths": [
+      "Compassion and generosity",
+      "Artistic expression",
+      "Global thinking",
+      "Emotional intelligence",
+      "Spiritual depth"
+    ],
+    "weaknesses": [
+      "Martyr complex",
+      "Escapism",
+      "Emotional volatility",
+      "Difficulty letting go",
+      "Naivety"
+    ],
+    "business": "Fulfills purpose in arts, humanitarian causes, counseling, teaching, or holistic healing.",
+    "relationships": "You give your heart fully and may expect the same. You need a partner who shares your ideals.",
+    "purpose": "To serve, inspire, and guide others through acts of unconditional love and sacrifice.",
+    "spiritual_lesson": "Let go of attachment and ego. Love without expectation.",
+    "health_influence": "May experience hormonal or circulatory challenges, and emotional stress.",
+    "challenges": "Overextending yourself, enabling others, or losing identity in service.",
+    "shadow_side": "Self-righteous, passive-aggressive, emotionally manipulative, or idealistic to a fault."
+  },
+
+  "11": {
+    "description": "The Master Inspirer. You are an intuitive visionary with a heightened spiritual awareness. You carry a strong inner light and an emotional sensitivity that allows you to tune into higher truths and universal wisdom.",
+    "advice": "Ground your spiritual insights with practical action. Don't let anxiety or overwhelm block your visionary path.",
+    "master": true,
+    "element": "Air",
+    "color": "Silver",
+    "vibration": "Spiritual Illumination",
+    "traits": [
+      "Visionary",
+      "Sensitive",
+      "Inspirational",
+      "Idealistic",
+      "Emotionally intuitive"
+    ],
+    "strengths": [
+      "Creative expression",
+      "Empathy and compassion",
+      "Spiritual insight",
+      "Charisma and magnetism",
+      "Public speaking and influence"
+    ],
+    "weaknesses": [
+      "Emotional overwhelm",
+      "Self-doubt",
+      "Nervous tension",
+      "Escapism",
+      "Difficulty staying grounded"
+    ],
+    "business": "Excellent in careers involving spirituality, art, music, writing, healing, mentoring, or motivational speaking. Natural leaders in creative or visionary roles.",
+    "relationships": "You need emotionally intelligent partners who understand your highs and lows and respect your need for spiritual and creative space.",
+    "purpose": "To inspire, enlighten, and elevate human consciousness through creativity, teaching, or service to humanity.",
+    "vibrations": "Elevated, ethereal, intense",
+    "challenges": "Managing intense emotions, staying grounded, maintaining focus on long-term goals without burnout.",
+    "spiritual_lesson": "To transform inner vision into tangible service and trust divine timing.",
+    "health_influence": "May experience nervous system issues, anxiety, sleep disturbances due to heightened sensitivity.",
+    "shadow_side": "Can fall into illusion, escapism, or become overly self-sacrificing for validation."
+  },
+  "22": {
+    "description": "The Master Builder. You possess the rare ability to bring lofty visions into practical reality. Your combination of intuition, discipline, and leadership allows you to create structures that uplift humanity.",
+    "advice": "Focus your energy and believe in your immense potential. Avoid perfectionism that leads to procrastination.",
+    "master": true,
+    "element": "Earth",
+    "color": "Platinum",
+    "vibration": "Master Architect of Reality",
+    "traits": [
+      "Disciplined",
+      "Visionary",
+      "Strategic",
+      "Responsible",
+      "Persistent"
+    ],
+    "strengths": [
+      "Long-term planning",
+      "Architectural thinking",
+      "Global vision",
+      "Influence and leadership",
+      "Exceptional work ethic"
+    ],
+    "weaknesses": [
+      "Workaholism",
+      "Rigidity",
+      "Control issues",
+      "Fear of failure",
+      "Neglecting personal needs"
+    ],
+    "business": "Excels in engineering, architecture, systems design, global business, project management, and humanitarian ventures with tangible impact.",
+    "relationships": "You need stable, loyal partners who can support your ambition and understand your deep sense of purpose.",
+    "purpose": "To construct systems, institutions, or movements that serve generations. Your legacy is to uplift the world through masterful implementation.",
+    "vibrations": "Grounded, forceful, expansive",
+    "challenges": "Balancing ambition with rest, avoiding emotional suppression, facing fear of inadequacy despite high competence.",
+    "spiritual_lesson": "To unite spirit and form—bringing divine concepts into solid structures that uplift the collective.",
+    "health_influence": "Stress-related conditions, skeletal tension, fatigue from overwork.",
+    "shadow_side": "Becomes cold, power-hungry, or authoritarian when disconnected from heart and spiritual vision."
+  },
+  "33": {
+    "description": "The Master Teacher. You are here to serve through unconditional love and healing. This vibration carries the highest spiritual responsibility and is focused on uplifting humanity through compassion, creativity, and deep wisdom.",
+    "advice": "Practice self-care and avoid losing your identity in service to others. Embrace joy along with duty.",
+    "master": true,
+    "element": "Water",
+    "color": "Pink",
+    "vibration": "Divine Compassion",
+    "traits": [
+      "Nurturing",
+      "Inspirational",
+      "Empathic",
+      "Selfless",
+      "Devoted"
+    ],
+    "strengths": [
+      "Healing ability",
+      "Emotional intelligence",
+      "Creativity and artistry",
+      "Unwavering compassion",
+      "Mentorship and teaching"
+    ],
+    "weaknesses": [
+      "Martyrdom",
+      "Emotional exhaustion",
+      "Self-neglect",
+      "Over-idealism",
+      "Avoidance of conflict"
+    ],
+    "business": "Works best in healing professions, therapy, spiritual guidance, teaching, social work, music, or any vocation focused on service and transformation.",
+    "relationships": "You give selflessly and need emotionally mature partners who honor your depth and devotion. Boundaries are crucial.",
+    "purpose": "To guide and heal others through love, truth, and wisdom. Your life is a sacred act of service.",
+    "vibrations": "Sacred, nurturing, transcendent",
+    "challenges": "Balancing care for others with self-love, avoiding burnout, handling high expectations placed on you.",
+    "spiritual_lesson": "To serve from overflow, not depletion—embody divine love while staying fully human.",
+    "health_influence": "Prone to emotional overload, adrenal fatigue, immune sensitivity due to empathic nature.",
+    "shadow_side": "Can become overly controlling in the guise of helping, or feel victimized when unappreciated."
+  }
+}

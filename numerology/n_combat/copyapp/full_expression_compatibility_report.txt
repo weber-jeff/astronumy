@@ -1,0 +1,579 @@
+Expression Number Compatibility Report
+========================================
+
+1 & 1:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+1 & 2:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+1 & 3:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+1 & 4:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+1 & 5:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+1 & 6:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+1 & 7:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+1 & 8:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+1 & 9:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+1 & 11:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+1 & 22:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+1 & 33:
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+2 & 1:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+2 & 2:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+2 & 3:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+2 & 4:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+2 & 5:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+2 & 6:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+2 & 7:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+2 & 8:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+2 & 9:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+2 & 11:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+2 & 22:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+2 & 33:
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+3 & 1:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+3 & 2:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+3 & 3:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+3 & 4:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+3 & 5:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+3 & 6:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+3 & 7:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+3 & 8:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+3 & 9:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+3 & 11:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+3 & 22:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+3 & 33:
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+4 & 1:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+4 & 2:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+4 & 3:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+4 & 4:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+4 & 5:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+4 & 6:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+4 & 7:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+4 & 8:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+4 & 9:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+4 & 11:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+4 & 22:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+4 & 33:
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+5 & 1:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+5 & 2:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+5 & 3:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+5 & 4:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+5 & 5:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+5 & 6:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+5 & 7:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+5 & 8:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+5 & 9:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+5 & 11:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+5 & 22:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+5 & 33:
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+6 & 1:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+6 & 2:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+6 & 3:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+6 & 4:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+6 & 5:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+6 & 6:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+6 & 7:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+6 & 8:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+6 & 9:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+6 & 11:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+6 & 22:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+6 & 33:
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+7 & 1:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+7 & 2:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+7 & 3:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+7 & 4:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+7 & 5:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+7 & 6:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+7 & 7:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+7 & 8:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+7 & 9:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+7 & 11:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+7 & 22:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+7 & 33:
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+8 & 1:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+8 & 2:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+8 & 3:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+8 & 4:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+8 & 5:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+8 & 6:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+8 & 7:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+8 & 8:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+8 & 9:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+8 & 11:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+8 & 22:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+8 & 33:
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+9 & 1:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+9 & 2:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+9 & 3:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+9 & 4:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+9 & 5:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+9 & 6:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+9 & 7:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+9 & 8:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+9 & 9:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+9 & 11:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+9 & 22:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+9 & 33:
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+11 & 1:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+11 & 2:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+11 & 3:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+11 & 4:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+11 & 5:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+11 & 6:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+11 & 7:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+11 & 8:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+11 & 9:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+11 & 11:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+11 & 22:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+11 & 33:
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+22 & 1:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+22 & 2:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+22 & 3:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+22 & 4:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+22 & 5:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+22 & 6:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+22 & 7:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+22 & 8:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+22 & 9:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+22 & 11:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+22 & 22:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+22 & 33:
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+
+33 & 1:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 1: Independent and assertive. Best matches are 3 and 5, offering balance and excitement.
+
+33 & 2:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 2: Diplomatic and sensitive. Harmonizes well with 6 and 9 for emotional and nurturing balance.
+
+33 & 3:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 3: Creative and expressive. Best with 1 and 5, sharing enthusiasm and a free spirit.
+
+33 & 4:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 4: Practical and grounded. Compatible with 6 and 8, offering stability and shared responsibility.
+
+33 & 5:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 5: Adventurous and free. Pairs well with 1 and 3, enjoying shared energy and fun.
+
+33 & 6:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 6: Nurturing and responsible. Great with 2 and 4, fostering emotional and family-centered harmony.
+
+33 & 7:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 7: Introspective and analytical. Best with 9 or 2, offering depth and spiritual growth.
+
+33 & 8:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 8: Ambitious and powerful. Works with 4 and 6, sharing structured and goal-oriented paths.
+
+33 & 9:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 9: Compassionate and idealistic. Connects deeply with 2 and 7 for emotional and spiritual fulfillment.
+
+33 & 11:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 11: Visionary and intuitive. Best paired with 2 or 7, focusing on spiritual missions and harmony.
+
+33 & 22:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 22: Master builder and practical visionary. Matches well with 4 or 8 for executing large goals.
+
+33 & 33:
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+- 33: Master teacher with deep compassion. Resonates with 6 and 9 in serving humanity and love.
+

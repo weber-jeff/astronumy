@@ -1,0 +1,140 @@
+  
+{
+
+   
+    
+    "Soul Urge + Personality": {
+        "1": "Desire for independence shows in a bold and confident outer self. Strong leadership drive.",
+        "2": "Craves harmony and reflects it outwardly. Gentle, caring, and peace-loving.",
+        "3": "Innate joy and need for expression blend with a charismatic presence. Fun-loving and social.",
+        "4": "Desires security and shows up as dependable and grounded. Serious and methodical.",
+        "5": "Freedom-seeking and externally adventurous. Energetic, witty, and always in motion.",
+        "6": "Loves deeply and shows as nurturing and responsible. Reliable and home-loving.",
+        "7": "Deep spiritual yearning mirrored in quiet, thoughtful personality. Introspective and mysterious.",
+        "8": "Desire for control and success reflected in a powerful and businesslike demeanor.",
+        "9": "Universal love within matches a compassionate outer presence. Wise and giving.",
+        "11": "Spiritual yearning and higher ideals radiate outward. Charismatic and inspirational.",
+        "22": "Inner need to build lasting impact mirrored in a capable and influential personality.",
+        "33": "Loving, selfless heart shines in a healing and nurturing personality. Uplifts others effortlessly."
+    
+   
+    },
+    "Birthday + Balance": {
+        "1": "Bold birth force is balanced by self-control. Uses assertiveness wisely.",
+        "2": "Sensitive nature finds balance in peace. Learns tact and calm diplomacy.",
+        "3": "Joyful energy is stabilized by emotional awareness. Learns thoughtful expression.",
+        "4": "Strong foundation balanced with flexibility. Learns to adapt within order.",
+        "5": "Restless birth energy gains steadiness. Learns discipline in freedom.",
+        "6": "Loving nature balanced by self-care. Learns to set boundaries.",
+        "7": "Introspective force finds emotional balance. Learns to trust and connect.",
+        "8": "Drive for success tempered with compassion. Learns ethical leadership.",
+        "9": "Passionate idealism balanced by practicality. Learns self-grounding.",
+        "11": "Spiritual spark finds calm focus. Learns to channel intensity constructively.",
+        "22": "High potential anchored with patience. Learns to build methodically.",
+        "33": "Divine compassion tempered with grounding. Learns self-preservation in service."
+    },
+    "Expression + Soul Urge + Personality": {
+        "1": "Unified self of bold will, desire, and action. Leads with conviction and integrity.",
+        "2": "Total harmony-seeker inside and out. Peaceful communicator with a loving heart.",
+        "3": "Creative triad of self-expression, emotional need, and appearance. Magnetic and entertaining.",
+        "4": "Solid, practical through all layers. Dependable and disciplined to the core.",
+        "5": "Dynamic soul full of freedom and charisma. Constantly evolving and inspiring others.",
+        "6": "Unified nurturer. Expresses, desires, and appears with love and care.",
+        "7": "Spiritually integrated individual. Deep thinker, seeker, and quiet influencer.",
+        "8": "Total achiever. Desires, acts, and appears as a leader and power broker.",
+        "9": "Embodiment of selfless service. Inner and outer self radiates compassion.",
+        "11": "Spiritual communicator with inspirational core. Intuitive and emotionally intelligent.",
+        "22": "Masterful manifestation at every level. Inner will, action, and presence aligned for greatness.",
+        "33": "Divine caregiver embodied in full. Uplifts and heals across soul, speech, and self."
+    },"Soul Urge + Pinnacle": {
+    "1": "Pinnacle goals driven by need for self-expression and personal leadership.",
+    "2": "Desires to form meaningful relationships through emotional growth phases.",
+    "3": "Wants joyful expansion and creative fulfillment during life peaks.",
+    "4": "Inner need for security steers structured pinnacle developments.",
+    "5": "Craves freedom, leading to transformative pinnacle experiences.",
+    "6": "Desires to nurture and love, shaping family-focused pinnacles.",
+    "7": "Yearns for solitude and discovery through inward-focused pinnacle periods.",
+    "8": "Wants financial or career control. Peaks are ambitious and success-oriented.",
+    "9": "Soul guided by compassion leads to service-oriented pinnacle fulfillment.",
+    "11": "Spiritual growth aligned with soul yearning for meaning during transformation.",
+    "22": "Driven to leave legacy. Pinnacle achievements match internal builder’s dream.",
+    "33": "Heart calls for world service. Peaks marked by healing and love missions."},
+
+  "Life Path + Soul Urge": {
+    "1": "Strong-willed with inner drive for independence. Acts on deep personal truth.",
+    "2": "Seeks harmony and connection in life direction. Guided by intuition and empathy.",
+    "3": "Creative path powered by emotional joy. Expresses passion with charisma.",
+    "4": "Stable builder driven by practical emotional needs. Purposeful and disciplined.",
+    "5": "Adventurous life with inner craving for freedom. Restless and dynamic.",
+    "6": "Devoted to nurturing and serving. Life and heart aligned in love and responsibility.",
+    "7": "Spiritual seeker with introspective emotional depth. Deep thinker and analyzer.",
+    "8": "Powerful leader with ambition aligned to inner strength. Results-driven and self-reliant.",
+    "9": "Life of service fueled by humanitarian passion. Wise, empathetic, and giving.",
+    "11": "Illuminated life path guided by spiritual longing. Inspirational and insightful.",
+    "22": "Master builder with vision rooted in soul purpose. Creates lasting impact.",
+    "33": "Universal caregiver living with divine intent. Healer in both action and emotion."
+  },
+  "Expression + Personality": {
+    "1": "Outwardly strong and expressive. Seen as a confident, assertive leader.",
+    "2": "Gentle and socially diplomatic. Harmonious in speech and presence.",
+    "3": "Charming communicator with radiant personality. Creative and engaging.",
+    "4": "Practical and reliable in word and appearance. Reserved but solid.",
+    "5": "Energetic and magnetic. Appears spontaneous and exciting.",
+    "6": "Warm, responsible and nurturing. Seen as supportive and balanced.",
+    "7": "Intellectual and spiritual. Gives off a mysterious and thoughtful aura.",
+    "8": "Commanding and efficient. Appears successful, direct, and competent.",
+    "9": "Compassionate with dramatic flair. Seen as worldly and wise.",
+    "11": "Spiritually expressive and captivating. Attracts others with insight.",
+    "22": "Powerful communicator with grounded intensity. Radiates capable authority.",
+    "33": "Loving and inspiring presence. Uplifts through compassionate self-expression."
+  },
+  
+  
+  "Expression + Challenge": {
+    "1": "Challenge to assert identity clearly. Learns confident communication.",
+    "2": "Struggles with indecisiveness. Must find assertive expression.",
+    "3": "Manages emotional exaggeration. Learns balance in words.",
+    "4": "Rigid communicator. Learns to embrace emotional openness.",
+    "5": "Overindulgence in variety. Learns to refine speech and thought.",
+    "6": "Too responsible in expression. Learns to speak for self, not just others.",
+    "7": "Tendency to over-analyze. Learns clear and compassionate expression.",
+    "8": "Authoritative, sometimes cold. Learns emotional intelligence in expression.",
+    "9": "Over-dramatic or overly giving. Learns appropriate expression boundaries.",
+    "11": "Highly sensitive speaker. Learns to express without overwhelm.",
+    "22": "Complex thoughts. Learns to simplify and deliver vision clearly.",
+    "33": "Healing voice may self-sacrifice. Learns when not to speak or carry."
+  
+},
+
+  
+  "2": {
+    "meaning": "This phase brings intense focus on relationships and cooperation. Learning patience, emotional balance, and harmonious teamwork is key."
+  },
+  "3": {
+    "meaning": "Social expression and joyful communication become central. You’re likely exploring creative outlets and building friendships."
+  },
+  "4": {
+    "meaning": "Stability is built after the spark of independence. Focus turns toward discipline, work ethic, and establishing a solid foundation."
+  },
+  "5": {
+    "meaning": "After structure, change emerges. Freedom, travel, and new experiences define this phase, teaching adaptability and bold action."
+  },
+  "6": {
+    "meaning": "A nurturing, family-centered energy begins to surface. Responsibilities increase as love, service, and home life take priority."
+  },
+  "7": {
+    "meaning": "You move inward toward self-reflection and spiritual study. This combination calls for solitude, introspection, and mental clarity."
+  },
+  "8": {
+    "meaning": "Material success and power come into focus. You're learning about ambition, authority, and the responsible use of personal power."
+  },
+  "9": {
+    "meaning": "Completion and compassion emerge. You’re called to let go, forgive, and serve a higher humanitarian purpose with grace."
+  },
+  "10": {
+    "meaning": "You integrate leadership and fresh beginnings with social charisma or expression. You may be called to communicate and influence widely."
+  },
+  "11": {
+    "meaning": "This combination triggers a spiritual awakening. You're called to illuminate others through inspired leadership and intuitive mastery."
+  }
+}

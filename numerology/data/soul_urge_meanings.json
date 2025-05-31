@@ -1,0 +1,290 @@
+{
+  "1": {
+    "description": "Your soul’s deepest desire is to express independence and individuality. You are driven to lead and innovate, often forging your own path with courage and confidence. At your core, you seek to be recognized for your originality and achievements.",
+    "advice": "Develop patience and empathy to balance your strong drive for success. Avoid becoming overly competitive or domineering by learning to collaborate and listen. Cultivate humility alongside ambition to sustain long-term growth.",
+    "master": false,
+    "element": "Fire",
+    "traits": [
+      "Strong-willed, self-reliant, visionary, courageous, pioneering, assertive, occasionally impatient, sometimes resistant to advice or cooperation."
+    ],
+    "strengths": [
+      "Confident",
+      "Energetic",
+      "Innovative"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Impatient",
+      "Dominating"
+    ],
+    "business": "You excel in entrepreneurial ventures, executive leadership, and pioneering startups. Your natural drive makes you ideal for roles requiring initiative and innovation, such as launching new products or businesses. However, avoid micromanaging teams—delegate strategically to maximize efficiency and morale. Leadership coaching could further refine your influence without dominance.",
+    "relationships": "You need a partner who values your autonomy but can also provide emotional support when needed. Relationships thrive when your partner respects your ambition and gives you space to lead while offering empathy during stressful times. Balance is key: avoid controlling tendencies, and practice active listening to deepen intimacy.",
+
+    "color": "Red",
+    "vibrations": "Initiating, assertive, pioneering"
+  },
+  "2": {
+    "description": "Your soul craves harmony and meaningful connection. You are deeply sensitive to others’ feelings and seek peace in your surroundings. Your desire is to create balance through diplomacy and cooperation.",
+    "advice": "Work on building self-confidence to avoid emotional dependency. Embrace conflict as an opportunity for growth instead of avoidance. Trust your inner voice and stand firm in your values.",
+    "master": false,
+    "element": "Water",
+    "traits": [
+      "Empathetic, diplomatic, gentle, intuitive, patient, supportive, sometimes indecisive, prone to people-pleasing."
+    ],
+    "strengths": [
+      "Patient",
+      "Empathetic",
+      "Tactful"
+    ],
+    "weaknesses": [
+      "Overly sensitive",
+      "Indecisive",
+      "Avoids conflict"
+    ],
+    "business": "Your strength lies in mediation, partnership development, and customer relations. Roles in HR, counseling, or diplomacy suit you best. You thrive in team environments and excel at conflict resolution. To grow professionally, work on assertiveness and decision-making to avoid being overshadowed or indecisive.",
+    "relationships": "You seek emotionally balanced, trusting, and nurturing partnerships. Avoid emotional dependence; instead, cultivate mutual respect and honest communication. Your natural diplomacy helps smooth conflicts, but ensure your needs are not neglected for the sake of peace..",
+    "purpose": "To create peace and bring people together with empathy.",
+    "color": "Soft Blue",
+    "vibrations": "Gentle, harmonious, supportive"
+  },
+  "3": {
+    "description": "Your soul yearns for creative expression, joy, and social interaction. You are naturally charismatic and seek to inspire others through your artistic talents and vibrant personality.",
+    "advice": "Focus on channeling your creativity with discipline. Avoid distractions and superficiality by committing to meaningful projects. Cultivate depth in your relationships beyond surface charm.",
+    "master": false,
+    "element": "Air",
+    "traits": [
+      "Expressive, optimistic, sociable, imaginative, humorous, energetic, sometimes scattered or restless."
+    ],
+    "strengths": [
+      "Charismatic",
+      "Imaginative",
+      "Energetic"
+    ],
+    "weaknesses": [
+      "Scattered",
+      "Superficial",
+      "Restless"
+    ],
+    "business": "Creative industries like marketing, entertainment, public relations, and writing are your forte. You inspire others through vibrant communication and imagination. However, discipline and focus are necessary to turn creative ideas into profitable outcomes. Consider developing structured workflows and setting measurable goals.",
+    "relationships": "You require a partner who shares your enthusiasm for life and artistic expression. Social compatibility is essential; your ideal partner encourages your creative pursuits and understands your need for freedom in expression. Beware superficial connections; seek depth beneath charm.",
+    "purpose": "To uplift and inspire others through joyful expression.",
+    "color": "Yellow",
+    "vibrations": "Joyful, expressive, creative"
+  },
+  "4": {
+    "description": "Your soul desires stability, structure, and order. You find satisfaction in building solid foundations and creating systems that endure. Security and practicality are important driving forces.",
+    "advice": "Learn to balance your need for order with flexibility. Avoid rigidity and perfectionism by embracing change when necessary. Build trust through consistency and reliability.",
+    "master": false,
+    "element": "Earth",
+    "traits": [
+      "Disciplined, practical, reliable, hardworking, methodical, sometimes stubborn or overly cautious."
+    ],
+    "strengths": [
+      "Hardworking",
+      "Organized",
+      "Patient"
+    ],
+    "weaknesses": [
+      "Rigid",
+      "Stubborn",
+      "Overcautious"
+    ],
+    "business": "You excel in fields demanding precision, structure, and reliability—engineering, finance, project management, and logistics. Your consistent work ethic builds solid reputations and trustworthy results. However, avoid inflexibility; learn to adapt to change to remain competitive in dynamic markets.",
+    "relationships": "Stable and committed relationships built on trust and reliability are your foundation. You value loyalty and consistency but should consciously avoid rigidity or controlling behavior. Embrace vulnerability and flexibility to nurture long-term emotional intimacy.",
+    "purpose": "To build lasting foundations that ensure security and order.",
+    "color": "Brown",
+    "vibrations": "Stable, grounded, dependable"
+  },
+  "5": {
+    "description": "Your soul longs for freedom, adventure, and variety. You are driven to explore new ideas, experiences, and relationships, seeking constant growth and excitement.",
+    "advice": "Practice patience and thoughtful decision-making to avoid impulsiveness. Cultivate focus and commitment to ensure your potential is fully realized. Balance change with stability for sustainable progress.",
+    "master": false,
+    "element": "Air",
+    "traits": [
+      "Adventurous, curious, adaptable, energetic, innovative, sometimes inconsistent or restless."
+    ],
+    "strengths": [
+      "Versatile",
+      "Innovative",
+      "Sociable"
+    ],
+    "weaknesses": [
+      "Impulsive",
+      "Restless",
+      "Inconsistent"
+    ],
+    "business": "You thrive in dynamic, fast-paced environments such as sales, consulting, travel, and event planning. Your versatility and innovation help you adapt quickly to new opportunities. To succeed, develop patience and strategic planning skills to avoid impulsive decisions that could undermine long-term goals.",
+    "relationships": "You need partners who appreciate excitement, change, and independence. A relationship with constant growth and new experiences is essential. Balance freedom with commitment by fostering open communication and respect for personal boundaries",
+    "purpose": "To explore and inspire through freedom and constant growth.",
+    "color": "Turquoise",
+    "vibrations": "Dynamic, versatile, freedom-loving"
+  },
+  "6": {
+    "description": "YYour soul is dedicated to love, nurturing, and responsibility. You find purpose in caring for others and creating harmonious environments that support growth and healing.",
+    "advice": "Maintain healthy boundaries while offering care. Avoid overprotectiveness and control by trusting others’ abilities. Practice self-care to prevent burnout.",
+    "master": false,
+    "element": "Earth",
+    "traits": [
+      "Caring, compassionate, loyal, responsible, protective, sometimes overbearing or self-sacrificing."
+    ],
+    "strengths": [
+      "Compassionate",
+      "Responsible",
+      "Supportive"
+    ],
+    "weaknesses": [
+      "Overprotective",
+      "Self-sacrificing",
+      "Controlling"
+    ],
+    "business": "Your nurturing nature suits caregiving professions—teaching, healthcare, social services, and human resources. You excel in roles requiring empathy and responsibility. Maintain professional boundaries to prevent burnout and preserve your energy for sustainable support.",
+    "relationships": "You flourish in loving, committed partnerships built on mutual support. Beware overprotectiveness or controlling tendencies—practice allowing independence while maintaining emotional closeness. Your strength lies in balancing care with respect for your partner’s autonomy.",
+    "purpose": "To heal and nurture your community through love and care.",
+    "color": "Green",
+    "vibrations": "Nurturing, responsible, harmonious"
+  },
+  "7": {
+    "description": "Your soul seeks knowledge, introspection, and spiritual understanding. You are drawn to solitude and deep thinking, aiming to uncover hidden truths and wisdom.",
+    "advice": "Balance introspection with social connection to avoid isolation. Share your insights with others to fulfill your purpose. Cultivate openness alongside skepticism.",
+    "master": false,
+    "element": "Water",
+    "traits": [
+      "Analytical, intuitive, philosophical, wise, reserved, sometimes distant or skeptical."
+    ],
+    "strengths": [
+      "Insightful",
+      "Wise",
+      "Perceptive"
+    ],
+    "weaknesses": [
+      "Reserved",
+      "Skeptical",
+      "Isolated"
+    ],
+    "business": "Ideal for careers in research, science, IT, philosophy, and spiritual guidance. Your analytical mind excels in solitary or focused work. Cultivate social connections and collaborative skills to avoid isolation that could limit professional growth.",
+    "relationships": "You seek partners who honor your introspective nature and intellectual pursuits. Space and solitude are essential, but balance with emotional openness to avoid distance. Find someone comfortable with deep conversations and shared quests for meaning.",
+    "purpose": "To uncover truths and share deep spiritual or intellectual wisdom.",
+    "color": "Violet",
+    "vibrations": "Reflective, wise, introspective"
+  },
+  "8": {
+    "description": "Your soul is driven by power, success, and material accomplishment. You seek to influence and create tangible results that reflect your authority and competence.",
+    "advice": "Use your power ethically and avoid becoming controlling. Balance ambition with generosity and fairness. Focus on long-term impact over short-term gain.",
+    "master": false,
+    "element": "Earth",
+    "traits": [
+      "Ambitious, confident, efficient, organized, authoritative, sometimes workaholic or materialistic."
+    ],
+    "strengths": [
+      "Efficient",
+      "Confident",
+      "Organized"
+    ],
+    "weaknesses": [
+      "Materialistic",
+      "Domineering",
+      "Workaholic"
+    ],
+    "business": "Natural in leadership roles within finance, management, law, and real estate. You command authority and drive results. Ethical use of power is crucial—avoid workaholism and materialism by maintaining a balanced approach to wealth and influence.",
+    "relationships": "You desire strong, supportive partners who match your ambition and work ethic. Ensure emotional connection isn’t sacrificed for achievement. Vulnerability and shared values build trust beyond power dynamics.",
+    "purpose": "To achieve success and create positive impact through power.",
+    "color": "Dark Brown",
+    "vibrations": "Powerful, efficient, authoritative"
+  },
+  "9": {
+    "description": "Your soul is inspired by compassion, humanitarianism, and universal love. You aim to uplift others and serve humanity through creative and altruistic efforts.",
+    "advice": "Practice emotional detachment to prevent burnout. Ground your idealism in practical actions. Embrace imperfection in yourself and others.",
+    "master": false,
+    "element": "Fire",
+    "traits": [
+      "Generous, idealistic, empathetic, inspirational, creative, sometimes impatient or escapist."
+    ],
+    "strengths": [
+      "Altruistic",
+      "Inspirational",
+      "Empathetic"
+    ],
+    "weaknesses": [
+      "Impatient",
+      "Overemotional",
+      "Escapist"
+    ],
+    "business": "Perfect for charitable organizations, social activism, arts, and healing professions. You inspire through selfless service and creativity. Guard against emotional burnout by setting limits and detaching from overwhelming responsibilities.",
+    "relationships": "You need compassionate partners equally committed to making a positive difference. Mutual support and shared ideals strengthen bonds. Beware overemotional tendencies by fostering grounded communication and self-care.",
+    "purpose": "To uplift humanity through selfless service and love.",
+    "color": "Red",
+    "vibrations": "Compassionate, inspiring, altruistic"
+  },
+  "11": {
+    "description": "Your soul is highly intuitive and spiritually aware, seeking to illuminate and inspire others through visionary insight and emotional sensitivity.",
+    "advice": "Stay grounded to manage nervous energy and anxiety. Cultivate emotional balance to effectively channel your inspiration. Avoid overwhelm by pacing your efforts.",
+    "master": true,
+    "element": "Air",
+    "traits": [
+      "Visionary, sensitive, charismatic, inspired, intuitive, sometimes anxious or overwhelmed."
+    ],
+    "strengths": [
+      "Charismatic",
+      "Innovative",
+      "Intuitive"
+    ],
+    "weaknesses": [
+      "Anxious",
+      "Nervous",
+      "Overwhelmed"
+    ],
+    "business": "Your intuitive gifts excel in spiritual counseling, teaching, the arts, and innovation-driven enterprises. Ground your visions with practical steps to manifest effectively. Emotional balance keeps your ideas flowing without overwhelm.",
+    "relationships": "Seek spiritually aware partners who appreciate your sensitivity and inspiration. Emotional support and understanding are critical to prevent anxiety and nervousness from undermining relationships.",
+    "purpose": "To enlighten and inspire others with your spiritual insights.",
+    "color": "Silver",
+    "vibrations": "Visionary, intuitive, inspirational"
+  },
+  "22": {
+    "description": "Your soul is a master builder, combining spiritual vision with practical skills to manifest large-scale, lasting change in the world.",
+    "advice": "Balance your ambitious goals with self-care to avoid burnout. Integrate your intuitive insights with disciplined action. Stay connected to your support network.",
+    "master": true,
+    "element": "Earth",
+    "traits": [
+      "Disciplined, visionary, practical, persistent, organized, sometimes perfectionist or detached."
+    ],
+    "strengths": [
+      "Organization",
+      "Endurance",
+      "Legacy"
+    ],
+    "weaknesses": [
+      "Overwhelmed",
+      "Perfectionist",
+      "Detached"
+    ],
+    "business": "You bring grand visions into reality through disciplined planning—ideal in architecture, engineering, and organizational leadership. Balance your practical skills with visionary foresight for enduring success.",
+    "relationships": "Stable, visionary partners complement your mission. Avoid emotional detachment by investing in emotional intimacy and mutual support to sustain relationships through demanding goals.",
+    "purpose": "To build a better world through grand, tangible efforts.",
+    "color": "Dark Blue",
+    "vibrations": "Structured, powerful, masterful"
+  },
+  "33": {
+    "description": "Your soul is devoted to unconditional love, healing, and teaching. You embody compassion and selflessness in service to others’ growth and well-being.",
+    "advice": "Maintain healthy personal boundaries to sustain your energy. Balance idealism with realism to avoid disappointment. Nurture your own needs alongside others'.",
+    "master": true,
+    "element": "Water",
+    "traits": [
+      "Compassionate, nurturing, inspirational, selfless, creative, sometimes overly self-sacrificing or sensitive."
+    ],
+    "strengths": [
+      "Devoted",
+      "Inspirational",
+      "Nurturing"
+    ],
+    "weaknesses": [
+      "Overly Self-sacrificing",
+      "Idealistic",
+      "Sensitive"
+    ],
+    "business": "Excelling in healing arts, teaching, counseling, and social work, you uplift through unconditional love. Maintain healthy boundaries to avoid overextension while delivering compassionate service.",
+    "relationships": "You seek partners sharing your commitment to service and spiritual growth. Healthy personal limits preserve your energy for others and strengthen relational harmony.",
+    "purpose": "To heal and uplift humanity through selfless service and love.",
+    "color": "Turquoise",
+    "vibrations": "Loving, nurturing, inspirational"
+  }
+}
