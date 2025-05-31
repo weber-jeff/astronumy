@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Astronumy Result</title>
+</head>
+<body>
+    <h1>Your Numerology Results</h1>
+    <ul>
+        {% for key, value in result.items() %}
+            <li><strong>{{ key }}:</strong> {{ value }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Back</a>
+</body>
+</html>

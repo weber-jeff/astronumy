@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Astro-Numerology Insights</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles can go here if needed */
+        .loader {
+            border: 5px solid #f3f3f3; /* Light grey */
+            border-top: 5px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        /* Ensure preformatted text wraps */
+        pre {
+            white-space: pre-wrap;       /* Since CSS 2.1 */
+            white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;    /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans p-4 md:p-8">
+    <div class="container mx-auto max-w-4xl bg-white shadow-xl rounded-lg p-6 md:p-10">
+        <header class="text-center mb-8">
+            <h1 class="text-3xl md:text-4xl font-bold text-indigo-700">Daily Astro-Numerology Insights</h1>
+        </header>
+
+        <form id="insightsForm" class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <fieldset class="border p-4 rounded-md shadow-sm">
+                <legend class="text-lg font-semibold text-gray-700 px-2">Birth Information</legend>
+                <div class="space-y-4 mt-2">
+                    <div>
+                        <label for="name" class="block text-sm font-medium text-gray-700">Your Full Name (for Numerology Report):</label>
+                        <input type="text" id="name" name="name" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" placeholder="e.g., Jane Doe">
+                    </div>
+                    <div>
+                        <label for="birth_date" class="block text-sm font-medium text-gray-700">Birth Date:</label>
+                        <input type="date" id="birth_date" name="birth_date" required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                    <div>
+                        <label for="birth_time" class="block text-sm font-medium text-gray-700">Birth Time (HH:MM):</label>
+                        <input type="time" id="birth_time" name="birth_time" value="12:00" required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                    <div>
+                        <label for="birth_lat" class="block text-sm font-medium text-gray-700">Birth Latitude:</label>
+                        <input type="number" step="any" id="birth_lat" name="birth_lat" placeholder="e.g., 40.7128" value="40.7128" required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                    <div>
+                        <label for="birth_lon" class="block text-sm font-medium text-gray-700">Birth Longitude:</label>
+                        <input type="number" step="any" id="birth_lon" name="birth_lon" placeholder="e.g., -74.0060" value="-74.0060" required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                </div>
+            </fieldset>
+
+            <fieldset class="border p-4 rounded-md shadow-sm">
+                <legend class="text-lg font-semibold text-gray-700 px-2">Target Date & Context</legend>
+                <div class="space-y-4 mt-2">
+                    <div>
+                        <label for="target_date" class="block text-sm font-medium text-gray-700">Target Date:</label>
+                        <input type="date" id="target_date" name="target_date" required class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                    <div>
+                        <label for="activity_context" class="block text-sm font-medium text-gray-700">Primary Activity or Context for the Day:</label>
+                        <input type="text" id="activity_context" name="activity_context" placeholder="e.g., Important meeting, Creative work" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm">
+                    </div>
+                </div>
+            </fieldset>
+
+            <div class="md:col-span-2 text-center mt-4">
+                <button type="submit" class="w-full md:w-auto inline-flex justify-center py-2 px-6 border border-transparent shadow-sm text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                    Get Insights
+                </button>
+            </div>
+        </form>
+
+        <div id="loader" class="hidden loader"></div>
+        <div id="errorDisplay" class="hidden bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-4" role="alert">
+            <strong class="font-bold">Error:</strong>
+            <span class="block sm:inline" id="errorMessage"></span>
+        </div>
+
+        <div id="results-area" class="hidden space-y-8 mt-8">
+            <h2 class="text-2xl md:text-3xl font-semibold text-center text-gray-800 border-b pb-3">Your Insights for <span id="results-target-date-display" class="text-indigo-600"></span></h2>
+
+            <section id="full-numerology-report-area" class="bg-white p-6 rounded-lg shadow-md">
+                </section>
+
+            <section id="full-astrology-report-area" class="bg-white p-6 rounded-lg shadow-md mt-6">
+                </section>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-6">
+                <section class="bg-indigo-50 p-4 rounded-lg shadow">
+                    <h3 class="text-xl font-semibold text-indigo-700 mb-3">Daily Numerology</h3>
+                    <div class="space-y-1 text-sm text-gray-700">
+                        <p><strong>Personal Day:</strong> <span id="result-num-day" class="font-medium">N/A</span></p>
+                        <p><strong>Personal Month:</strong> <span id="result-num-month" class="font-medium">N/A</span></p>
+                        <p><strong>Personal Year:</strong> <span id="result-num-year" class="font-medium">N/A</span></p>
+                    </div>
+                </section>
+
+                <section class="bg-purple-50 p-4 rounded-lg shadow">
+                    <h3 class="text-xl font-semibold text-purple-700 mb-3">Daily Astrology</h3>
+                    <div class="space-y-1 text-sm text-gray-700">
+                        <p><strong>Transiting Moon Sign:</strong> <span id="result-astro-moon" class="font-medium">N/A</span></p>
+                        <p><strong>Mercury Retrograde:</strong> <span id="result-astro-mercury" class="font-medium">N/A</span></p>
+                        <p><strong>Dominant Element:</strong> <span id="result-astro-element" class="font-medium">N/A</span></p>
+                        <p><strong>Dominant Modality:</strong> <span id="result-astro-modality" class="font-medium">N/A</span></p>
+                        <p><strong>Transit Summary:</strong> <span id="result-astro-summary" class="font-medium">N/A</span></p>
+                    </div>
+                </section>
+            </div>
+
+            <section class="bg-green-50 p-4 rounded-lg shadow mt-6">
+                <h3 class="text-xl font-semibold text-green-700 mb-3">Interpretive Guidance</h3>
+                <ul id="result-advice" class="list-disc list-inside space-y-1 text-sm text-gray-700">
+                    <li>N/A</li>
+                </ul>
+            </section>
+
+            <section class="bg-yellow-50 p-4 rounded-lg shadow mt-6">
+                <h3 class="text-xl font-semibold text-yellow-700 mb-3">Predicted Outcome Likelihood (ML)</h3>
+                <p class="text-sm text-gray-700"><strong>Predicted Category for "<span id="result-pred-context">General</span>":</strong> <span id="result-pred-outcome" class="font-medium">N/A</span></p>
+                <div id="result-pred-probs" class="text-sm text-gray-600 mt-1">N/A</div>
+            </section>
+
+            <section id="feedback-section" class="mt-10 border-t pt-6">
+                <h3 class="text-xl font-semibold text-gray-700 mb-3">Log Feedback for <span id="feedback-date-display">Target Date</span></h3>
+                <form id="feedbackForm" class="space-y-4">
+                    <div>
+                        <label for="feedback-activity" class="block text-sm font-medium text-gray-700">What activity did you focus on?</label>
+                        <input type="text" id="feedback-activity" name="feedback-activity" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm" required>
+                    </div>
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700">How did it go?</label>
+                        <div class="mt-1 flex space-x-4">
+                            <label class="inline-flex items-center"><input type="radio" name="outcome_rating" value="Positive" class="focus:ring-indigo-500 h-4 w-4 text-indigo-600 border-gray-300"> <span class="ml-2">Positive</span></label>
+                            <label class="inline-flex items-center"><input type="radio" name="outcome_rating" value="Neutral" class="focus:ring-indigo-500 h-4 w-4 text-indigo-600 border-gray-300" checked> <span class="ml-2">Neutral</span></label>
+                            <label class="inline-flex items-center"><input type="radio" name="outcome_rating" value="Negative" class="focus:ring-indigo-500 h-4 w-4 text-indigo-600 border-gray-300"> <span class="ml-2">Negative</span></label>
+                        </div>
+                    </div>
+                    <div>
+                        <label for="feedback-notes" class="block text-sm font-medium text-gray-700">Notes (Optional):</label>
+                        <textarea id="feedback-notes" name="feedback-notes" rows="3" class="mt-1 block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"></textarea>
+                    </div>
+                    <button type="submit" class="inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500">
+                        Submit Feedback
+                    </button>
+                     <div id="feedback-message" class="mt-2 text-sm"></div>
+                </form>
+            </section>
+        </div>
+    </div>
+
+    <script>
+        // Store current insights for feedback submission
+        let currentNumerologySnapshot = null;
+        let currentAstrologySnapshot = null;
+        let currentFeedbackTargetDate = null;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            // Set default target date to today
+            const today = new Date().toISOString().split('T')[0];
+            document.getElementById('target_date').value = today;
+            // Set default birth date (optional, can be removed)
+            // document.getElementById('birth_date').value = '1990-01-01';
+
+
+            const insightsForm = document.getElementById('insightsForm');
+            insightsForm.addEventListener('submit', function(event) {
+                event.preventDefault();
+                fetchInsights();
+            });
+
+            const feedbackForm = document.getElementById('feedbackForm');
+            feedbackForm.addEventListener('submit', function(event) {
+                event.preventDefault();
+                submitFeedback();
+            });
+        });
+
+        function fetchInsights() {
+            const loader = document.getElementById('loader');
+            const errorDisplay = document.getElementById('errorDisplay');
+            const resultsArea = document.getElementById('results-area');
+
+            loader.classList.remove('hidden');
+            errorDisplay.classList.add('hidden');
+            resultsArea.classList.add('hidden'); // Hide previous results
+
+            const formData = {
+                name: document.getElementById('name').value,
+                birth_date: document.getElementById('birth_date').value,
+                birth_time: document.getElementById('birth_time').value,
+                birth_lat: document.getElementById('birth_lat').value,
+                birth_lon: document.getElementById('birth_lon').value,
+                target_date: document.getElementById('target_date').value,
+                activity_context: document.getElementById('activity_context').value || 'General'
+            };
+
+            console.log("Sending to /get_insights:", formData);
+
+            fetch('/get_insights', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    return response.json().then(err => { throw new Error(err.error || `HTTP error! Status: ${response.status}`) });
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log("Received from /get_insights:", data);
+                loader.classList.add('hidden');
+                if (data.error) {
+                    showError(data.error);
+                } else {
+                    displayResults(data, formData.target_date);
+                }
+            })
+            .catch(error => {
+                loader.classList.add('hidden');
+                console.error('Error fetching insights:', error);
+                showError(error.message || 'Failed to fetch insights. Check network connection or server logs.');
+            });
+        }
+
+        function displayResults(results, targetDate) {
+            const resultsArea = document.getElementById('results-area');
+            document.getElementById('errorDisplay').classList.add('hidden');
+
+            // Store for feedback
+            currentNumerologySnapshot = results.numerology;
+            currentAstrologySnapshot = results.astrology;
+            currentFeedbackTargetDate = results.feedback_target_date || targetDate;
+
+
+            // Update target date display in results header
+            document.getElementById('results-target-date-display').textContent = targetDate;
+
+
+            // --- Display Full Numerology Report ---
+            const fullNumReportArea = document.getElementById('full-numerology-report-area');
+            console.log("Numerology report string from results:", results.numerology_report_full);
+            if (fullNumReportArea) {
+                if (results.numerology_report_full && results.numerology_report_full.trim() !== "" && !results.numerology_report_full.toLowerCase().includes("not generated") && !results.numerology_report_full.toLowerCase().includes("error")) {
+                    fullNumReportArea.innerHTML = `<h2 class="text-2xl font-semibold text-gray-800 mb-3">Full Numerology Report</h2><pre class="bg-gray-50 p-4 rounded text-sm text-gray-700">${results.numerology_report_full}</pre>`;
+                } else {
+                    fullNumReportArea.innerHTML = `<h2 class="text-2xl font-semibold text-gray-800 mb-3">Full Numerology Report</h2><p class="bg-gray-50 p-4 rounded text-sm text-gray-700">${results.numerology_report_full || 'Data for full numerology report not available.'}</p>`;
+                }
+            } else {
+                 console.error("Element with ID 'full-numerology-report-area' not found!");
+            }
+
+            // --- Display Full Astrology Report ---
+            const fullAstroReportArea = document.getElementById('full-astrology-report-area');
+            console.log("Astrology report string from results:", results.astrology_report_full);
+             if (fullAstroReportArea) {
+                if (results.astrology_report_full && results.astrology_report_full.trim() !== "" && !results.astrology_report_full.toLowerCase().includes("not generated") && !results.astrology_report_full.toLowerCase().includes("error")) {
+                    fullAstroReportArea.innerHTML = `<h2 class="text-2xl font-semibold text-gray-800 mb-3">Full Astrology Report</h2><pre class="bg-gray-50 p-4 rounded text-sm text-gray-700">${results.astrology_report_full}</pre>`;
+                } else {
+                    fullAstroReportArea.innerHTML = `<h2 class="text-2xl font-semibold text-gray-800 mb-3">Full Astrology Report</h2><p class="bg-gray-50 p-4 rounded text-sm text-gray-700">${results.astrology_report_full || 'Data for full astrology report not available.'}</p>`;
+                }
+            } else {
+                console.error("Element with ID 'full-astrology-report-area' not found!");
+            }
+
+
+            // Populate Daily Numerology
+            document.getElementById('result-num-day').textContent = results.numerology?.personal_day ?? 'N/A';
+            document.getElementById('result-num-month').textContent = results.numerology?.personal_month ?? 'N/A';
+            document.getElementById('result-num-year').textContent = results.numerology?.personal_year ?? 'N/A';
+
+            // Populate Daily Astrology
+            document.getElementById('result-astro-moon').textContent = results.astrology?.transiting_moon_sign ?? 'N/A';
+            document.getElementById('result-astro-mercury').textContent = results.astrology?.mercury_retrograde ?? 'N/A';
+            document.getElementById('result-astro-element').textContent = results.astrology?.dominant_element ?? 'N/A';
+            document.getElementById('result-astro-modality').textContent = results.astrology?.dominant_modality ?? 'N/A';
+            document.getElementById('result-astro-summary').textContent = results.astrology?.transit_summary ?? 'N/A';
+
+            // Populate Advice
+            const adviceList = document.getElementById('result-advice');
+            adviceList.innerHTML = ''; // Clear previous
+            if (results.advice && results.advice.length > 0) {
+                results.advice.forEach(item => {
+                    const li = document.createElement('li');
+                    li.textContent = item;
+                    adviceList.appendChild(li);
+                });
+            } else {
+                adviceList.innerHTML = '<li>No specific advice available.</li>';
+            }
+
+            // Populate Prediction
+            document.getElementById('result-pred-context').textContent = document.getElementById('activity_context').value || 'General';
+            document.getElementById('result-pred-outcome').textContent = results.prediction?.outcome ?? 'N/A';
+            const probsDiv = document.getElementById('result-pred-probs');
+            if (results.prediction?.probabilities && typeof results.prediction.probabilities === 'object') {
+                let probsHTML = '<ul class="list-none text-xs">';
+                for (const [key, value] of Object.entries(results.prediction.probabilities)) {
+                    probsHTML += `<li>${key}: ${value}</li>`;
+                }
+                probsHTML += '</ul>';
+                probsDiv.innerHTML = probsHTML;
+            } else {
+                 probsDiv.textContent = results.prediction?.probabilities || 'Probability data not available.';
+            }
+            
+            // Update feedback form date display and activity context
+            document.getElementById('feedback-date-display').textContent = currentFeedbackTargetDate;
+            const currentActivityContext = document.getElementById('activity_context').value;
+            document.getElementById('feedback-activity').value = currentActivityContext || '';
+
+
+            resultsArea.classList.remove('hidden');
+            // Scroll to results
+            resultsArea.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        function showError(message) {
+            const errorDisplay = document.getElementById('errorDisplay');
+            const errorMessage = document.getElementById('errorMessage');
+            errorMessage.textContent = message;
+            errorDisplay.classList.remove('hidden');
+        }
+
+        function submitFeedback() {
+            const feedbackDate = currentFeedbackTargetDate;
+            const activity = document.getElementById('feedback-activity').value;
+            const outcomeRating = document.querySelector('input[name="outcome_rating"]:checked').value;
+            const notes = document.getElementById('feedback-notes').value;
+            const feedbackMessageDiv = document.getElementById('feedback-message');
+
+            if (!activity) {
+                feedbackMessageDiv.textContent = 'Please enter the activity you focused on.';
+                feedbackMessageDiv.className = 'mt-2 text-sm text-red-600';
+                return;
+            }
+            if (!currentNumerologySnapshot || !currentAstrologySnapshot) {
+                feedbackMessageDiv.textContent = 'Cannot submit feedback: insight snapshot not available. Please generate insights first.';
+                feedbackMessageDiv.className = 'mt-2 text-sm text-red-600';
+                return;
+            }
+
+
+            const feedbackData = {
+                feedback_date: feedbackDate,
+                user_activity: activity,
+                outcome_rating: outcomeRating,
+                user_notes: notes,
+                numerology_snapshot: currentNumerologySnapshot, // Send the stored snapshot
+                astrology_snapshot: currentAstrologySnapshot   // Send the stored snapshot
+            };
+
+            console.log("Submitting feedback:", feedbackData);
+            feedbackMessageDiv.textContent = 'Submitting...';
+            feedbackMessageDiv.className = 'mt-2 text-sm text-gray-600';
+
+
+            fetch('/submit_feedback', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(feedbackData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    console.error("Feedback error:", data.error);
+                    feedbackMessageDiv.textContent = `Error: ${data.error}`;
+                    feedbackMessageDiv.className = 'mt-2 text-sm text-red-600';
+                } else {
+                    console.log("Feedback success:", data.message);
+                    feedbackMessageDiv.textContent = data.message || "Feedback submitted!";
+                    feedbackMessageDiv.className = 'mt-2 text-sm text-green-600';
+                    // Optionally clear parts of the feedback form
+                    // document.getElementById('feedbackForm').reset(); // Resets all fields
+                    document.getElementById('feedback-notes').value = '';
+
+                }
+            })
+            .catch(error => {
+                console.error('Error submitting feedback:', error);
+                feedbackMessageDiv.textContent = 'An error occurred while submitting feedback.';
+                feedbackMessageDiv.className = 'mt-2 text-sm text-red-600';
+            });
+        }
+
+    </script>
+</body>
+</html>

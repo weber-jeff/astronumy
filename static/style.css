@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to bottom, #0b0c10, #1f2833);
+  color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #121212;
+  padding: 2rem 1rem;
+  position: relative;
+}
+
+.sun, .moon {
+  position: absolute;
+  font-size: 2rem;
+  top: 1rem;
+}
+
+.sun {
+  left: 1rem;
+}
+
+.moon {
+  right: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0.5rem 0;
+}
+
+.input-section, .output-section {
+  max-width: 600px;
+  margin: 2rem auto;
+  background-color: #20232a;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+}
+
+form input, form button {
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 0.5rem;
+  border: none;
+}
+
+form button {
+  background-color: #66fcf1;
+  color: #0b0c10;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#report {
+  white-space: pre-wrap;
+}

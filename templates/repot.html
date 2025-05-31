@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>{{ name }}'s Numerology Report</title></head>
+<body>
+  <h1>Numerology Report for {{ name }}</h1>
+  <p>Date of Birth: {{ dob }}</p>
+  <hr>
+  {% for number_type, data in report.items() %}
+    <h2>{{ number_type | capitalize }} ({{ loop.index }})</h2>
+    <p>{{ data.description }}</p>
+  {% endfor %}
+</body>
+</html>
