@@ -9,50 +9,37 @@ logging.basicConfig(level=logging.WARNING)  # Library-level default logging
 logger = logging.getLogger(__name__)
 
 try:
-    
-    from core_astrology.planetary_positions import get_planet_positions
-  
+    from core_astrology.planetary_positions import (
+        get_planet_positions,
+        get_moon_sign,
+        degree_to_sign,
+        calculate_aspects,
+        assign_planets_to_houses,
+    )
 except ImportError as e:
     logger.warning(f"Import fallback in chart_parser.py: {e}")
 
-    def get_moon_sign(year: int, month: int, day: int,
-                      hour: int, minute: int,
-                      lat: float, lon: float, alt: float = 0) -> str:
+    def get_moon_sign(*args, **kwargs) -> str:
         return "Error: get_moon_sign not loaded"
 
-    def degree_to_sign(degree: float) -> str:
+    def degree_to_sign(*args, **kwargs) -> str:
         return "Error: degree_to_sign not loaded"
 
-    def get_planet_positions(year: int, month: int, day: int,
-                              hour: int, minute: int,
-                              lat: float, lon: float, alt: float = 0) -> dict:
+    def get_planet_positions(*args, **kwargs) -> dict:
         return {"error": "get_planet_positions not loaded"}
 
-    def calculate_aspects(planet_positions: dict) -> dict:
+    def calculate_aspects(*args, **kwargs) -> dict:
         return {"error": "calculate_aspects not loaded"}
 
-    def assign_planets_to_houses(planet_positions: dict,
-                                 house_cusps: List[float]) -> dict:
+    def assign_planets_to_houses(*args, **kwargs) -> dict:
         return {"error": "assign_planets_to_houses not loaded"}
-
 
 def _to_utc_datetime(year: int, month: int, day: int,
                      hour: int, minute: int,
                      ut_offset: float) -> datetime.datetime:
-    """
-    Convert local time with UTC offset to an aware UTC datetime.
-
-    Args:
-        year, month, day, hour, minute: Local time components
-        ut_offset: Timezone offset from UTC in hours (e.g. -5 for EST)
-
-    Returns:
-        datetime.datetime object with UTC timezone
-    """
     local_dt = datetime.datetime(year, month, day, hour, minute)
     utc_dt = local_dt - datetime.timedelta(hours=ut_offset)
     return utc_dt.replace(tzinfo=datetime.timezone.utc)
-
 
 def _validate_inputs(year: int, month: int, day: int,
                      hour: int, minute: int,
@@ -70,16 +57,11 @@ def _validate_inputs(year: int, month: int, day: int,
     if not (-180 <= lon <= 180):
         raise ValueError("Longitude must be between -180 and 180")
 
-
 def _check_for_error(result: dict, context: str) -> bool:
-    """
-    Helper to check dict for 'error' key, log it, and return True if error found.
-    """
     if "error" in result:
         logger.error(f"{context} error: {result['error']}")
         return True
     return False
-
 
 def generate_birth_chart(
     year: int,
@@ -93,23 +75,10 @@ def generate_birth_chart(
     alt: float = 0.0,
     house_system: str = 'P'
 ) -> Dict[str, Union[str, float, dict, List[float]]]:
-    """
-    Generate a complete birth chart dictionary using Swiss Ephemeris.
-
-    Parameters:
-        year, month, day, hour, minute: Local birth date/time components
-        ut_offset: Timezone offset hours to UTC (e.g. -5.0 for EST)
-        lat, lon, alt: Geographic coordinates (degrees, meters)
-        house_system: House calculation system (default 'P' = Placidus)
-
-    Returns:
-        dict: Birth chart data or {'error': str} on failure
-    """
     try:
         _validate_inputs(year, month, day, hour, minute, lat, lon)
         ut_dt = _to_utc_datetime(year, month, day, hour, minute, ut_offset)
 
-        # More precise fractional hour including microseconds
         frac_hour = (
             ut_dt.hour
             + ut_dt.minute / 60.0
@@ -162,7 +131,6 @@ def generate_birth_chart(
     except Exception as e:
         logger.error("Unexpected error in generate_birth_chart", exc_info=True)
         return {"error": f"Unexpected error: {str(e)}"}
-
 
 if __name__ == "__main__":
     print("=== Birth Chart Generator Test ===")

@@ -262,3 +262,14 @@ if __name__ == "__main__":
     else:
         print(f"Warning: Swiss Ephemeris path does not exist: {eph_path}")
         print("Skipping astrology report generation.")
+                glyph = aspect_glyphs.get(asp_type, asp_type)
+                aspect_desc = get_aspect_report(asp_type)
+                report_lines.append(
+                    f"  {p1} {glyph} {p2} (Orb: {orb:.2f}°) - {aspect_desc}"
+                )
+    else:
+        report_lines.append("  No significant aspects calculated or available.")
+
+    report_lines.append("\n==================================")
+    return "\n".join(report_lines)
+you sope
